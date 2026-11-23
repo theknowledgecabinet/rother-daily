@@ -28,48 +28,7 @@
   }
  ],
  "councils": [],
- "changes": [
-  {
-   "id": 8,
-   "at": "2026-11-23T08:05:24+00:00",
-   "text": "East Sussex County Council: Shaun Dowling is no longer listed for Hastings - St Helens and Silverhill."
-  },
-  {
-   "id": 7,
-   "at": "2026-11-23T08:05:24+00:00",
-   "text": "East Sussex County Council: Julia Hilton is no longer listed for Hastings - Old Hastings and Tressell."
-  },
-  {
-   "id": 6,
-   "at": "2026-11-23T08:05:24+00:00",
-   "text": "East Sussex County Council: Karen Simnett is no longer listed for Hastings - Maze Hill and West St Leonards."
-  },
-  {
-   "id": 5,
-   "at": "2026-11-23T08:05:24+00:00",
-   "text": "East Sussex County Council: Mark Estcourt is no longer listed for Hastings - Hollington and Wishing Tree."
-  },
-  {
-   "id": 4,
-   "at": "2026-11-23T08:05:24+00:00",
-   "text": "East Sussex County Council: Amanda Jobson is no longer listed for Hastings - Central St Leonards and Gensing."
-  },
-  {
-   "id": 3,
-   "at": "2026-11-23T08:05:24+00:00",
-   "text": "East Sussex County Council: Becca Horn is no longer listed for Hastings - Braybrooke and Castle."
-  },
-  {
-   "id": 2,
-   "at": "2026-11-23T08:05:24+00:00",
-   "text": "East Sussex County Council: Jo Walker is no longer listed for Hastings - Baird and Ore."
-  },
-  {
-   "id": 1,
-   "at": "2026-11-23T08:05:24+00:00",
-   "text": "East Sussex County Council: Aidan Fisher is no longer listed for Hastings - Ashdown and Conquest."
-  }
- ],
+ "changes": [],
  "areas": [
   {
    "slug": "bexhill-and-battle",
