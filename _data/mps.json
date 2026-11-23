@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/4860/contact",
   "parliament": "https://members.parliament.uk/member/4860",
   "portrait": "https://members-api.parliament.uk/api/Members/4860/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "19 votes, 7 votes missed, 27 contributions, 6 written questions, 10 answers received",
+  "last30_text": "19 votes, 7 votes missed, 32 contributions, 6 written questions, 10 answers received",
   "synopsis": "Dr Kieran Mullan is the Conservative MP for Bexhill and Battle , and has been an MP continually since 12 December 2019. He currently undertakes the role of Shadow Minister (Justice).",
   "committees": [],
   "government_posts": [],
@@ -34,10 +34,10 @@
     ]
    }
   ],
-  "checked": "2026-11-23T19:32:12+00:00",
+  "checked": "2026-11-23T22:49:05+00:00",
   "last30": {
    "vote": 19,
-   "speech": 27,
+   "speech": 32,
    "question": 6,
    "answer": 10,
    "edm": 0,
@@ -46,6 +46,111 @@
    "against_party": 0
   },
   "days": [
+   {
+    "day": "2026-11-23",
+    "items": [
+     {
+      "kind": "speech",
+      "title": "Draft Sentencing Act 2020 (Prison Sanctions) Regulations 2026",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-23/debates/e252a550-f209-4c3c-8382-9a4d052546c6/DraftSentencingAct2020PrisonSanctionsRegulations2026#contribution-D7FC16FB-8116-4875-BAB7-C4C592A0E58A",
+      "line": "Spoke in \"Draft Sentencing Act 2020 (Prison Sanctions) Regulations 2026\" (General Committees): \"It is a pleasure to serve under your chairmanship, Sir Alec. Like the Minister, I want to begin by paying tribute to the victims and families who have campaigned tirelessly for this change over many years. One of the first people I met campaigning on this issu\"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "It is a pleasure to serve under your chairmanship, Sir Alec. Like the Minister, I want to begin by paying tribute to the victims and families who have campaigned tirelessly for this change over many years. One of the first people I met campaigning on this issue was Ayse Hussein. Her cousin, Jan Mustafa, was murdered by Zahid Younis, who kept her body, and that of Henriett Szucs, chopped up and stored in a freezer in his flat for a long time. When he was sentenced in 2020, he refused to leave his cell. Through the Justice for Victims campaign, which I helped to support, Ayse worked alongside Jebina Islam, whose sister Sabina Nessa was murdered, and Farah Naz, whose niece Zara Aleena was murdered, as the Minister mentioned. I also want to pay tribute to Cheryl Korbel, who has been a prominent campaigner on this issue, and the rest of Olivia’s family. We welcome the positive elements of thi",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "General Committees"
+     },
+     {
+      "kind": "speech",
+      "title": "Draft Sentencing Act 2020 (Prison Sanctions) Regulations 2026",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-23/debates/e252a550-f209-4c3c-8382-9a4d052546c6/DraftSentencingAct2020PrisonSanctionsRegulations2026#contribution-B03A3F2E-BE12-4A23-B808-B85B677D9FA1",
+      "line": "Spoke in \"Draft Sentencing Act 2020 (Prison Sanctions) Regulations 2026\" (General Committees): \"These sanctions are awarded in a public court, where there is no anonymity for the people involved, so I do not see why that is a block. If a prison governor wants to cancel a sanction, why should they not have to go back to the judge, who could hear the case \"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "These sanctions are awarded in a public court, where there is no anonymity for the people involved, so I do not see why that is a block. If a prison governor wants to cancel a sanction, why should they not have to go back to the judge, who could hear the case for cancellation and decide whether to allow it?",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "General Committees"
+     },
+     {
+      "kind": "speech",
+      "title": "Draft Sentencing Act 2020 (Prison Sanctions) Regulations 2026",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-23/debates/e252a550-f209-4c3c-8382-9a4d052546c6/DraftSentencingAct2020PrisonSanctionsRegulations2026#contribution-251D42C2-8637-4BDA-9D9C-A2A306B20755",
+      "line": "Spoke in \"Draft Sentencing Act 2020 (Prison Sanctions) Regulations 2026\" (General Committees): \"I accept the point about pausing an order, but if a governor wants to cancel one, why should they not have to go back to the judge who awarded it? We should include the judge in the decision to permanently cancel a sanction, at least.\"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "I accept the point about pausing an order, but if a governor wants to cancel one, why should they not have to go back to the judge who awarded it? We should include the judge in the decision to permanently cancel a sanction, at least.",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "General Committees"
+     },
+     {
+      "kind": "speech",
+      "title": "Draft Sentencing Act 2020 (Prison Sanctions) Regulations 2026",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-23/debates/e252a550-f209-4c3c-8382-9a4d052546c6/DraftSentencingAct2020PrisonSanctionsRegulations2026#contribution-49545938-8F1A-4412-967D-D54921673529",
+      "line": "Spoke in \"Draft Sentencing Act 2020 (Prison Sanctions) Regulations 2026\" (General Committees): \"We had this debate in the Public Bill Committee. It is not about force, but about whether someone’s mouth can be taped to prevent them from shouting out. The Supreme Court in America has repeatedly confirmed that that is a reasonable use of force, but we have \"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "We had this debate in the Public Bill Committee. It is not about force, but about whether someone’s mouth can be taped to prevent them from shouting out. The Supreme Court in America has repeatedly confirmed that that is a reasonable use of force, but we have never introduced it, and it is not in any of the approved techniques. I presume that that is because in most other circumstances, it is not appropriate, but what is the harm in taping somebody’s mouth so that they cannot be disruptive during a court proceeding?",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "General Committees"
+     },
+     {
+      "kind": "speech",
+      "title": "UK-EU Summit",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-23/debates/3F3236A5-D1ED-4FD0-8678-B7950D74FD7B/UKEUSummit#contribution-30763DCA-E634-449D-885B-31A08BDDADE5",
+      "line": "Spoke in \"UK-EU Summit\" (Commons Chamber): \"The Prime Minister’s approach to negotiations puts him in the sorry position of a home buyer who after the first viewing tells the estate agent it is his dream home and that he will not go anywhere else, and then is shocked when he gets asked for the asking pr\"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "The Prime Minister’s approach to negotiations puts him in the sorry position of a home buyer who after the first viewing tells the estate agent it is his dream home and that he will not go anywhere else, and then is shocked when he gets asked for the asking price—except it is all of us paying the asking price. How much will it cost to join the electricity market?",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "Commons Chamber"
+     }
+    ]
+   },
    {
     "day": "2026-11-18",
     "items": [
@@ -1882,7 +1987,7 @@
     ]
    }
   ],
-  "summary": "Dr Kieran Mullan is the Conservative MP for Bexhill and Battle. Of the 26 Commons votes recorded since 3 November 2026, they voted in 19 (73%), always with most Conservative MPs. They spoke 40 times in 9 debates (about 7,745 words); most often in \"Welfare\", \"MOD Bicester and Illegal Migrants\" and \"Topical Questions\". They tabled 11 written questions, most often to the Treasury (4) and the Ministry of Justice (3). On the 19 votes where both the area's MPs voted, Dr Kieran Mullan and Helena Dollimore voted the same way 2 times and opposite ways 17 times."
+  "summary": "Dr Kieran Mullan is the Conservative MP for Bexhill and Battle. Of the 26 Commons votes recorded since 3 November 2026, they voted in 19 (73%), always with most Conservative MPs. They spoke 45 times in 11 debates (about 8,844 words); most often in \"Welfare\", \"MOD Bicester and Illegal Migrants\" and \"Topical Questions\". They tabled 11 written questions, most often to the Treasury (4) and the Ministry of Justice (3). On the 19 votes where both the area's MPs voted, Dr Kieran Mullan and Helena Dollimore voted the same way 2 times and opposite ways 17 times."
  },
  "hastings-and-rye": {
   "slug": "hastings-and-rye",
@@ -1955,7 +2060,7 @@
     ]
    }
   ],
-  "checked": "2026-11-23T19:32:26+00:00",
+  "checked": "2026-11-23T22:49:11+00:00",
   "last30": {
    "vote": 26,
    "speech": 2,
