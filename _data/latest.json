@@ -32,8 +32,8 @@
    "low": 6,
    "rain_chance": 6,
    "rain_mm": 0.0,
-   "wind": 14,
-   "gusts": 26,
+   "wind": 13,
+   "gusts": 25,
    "direction": "south-easterly",
    "sunrise": "07:28",
    "sunset": "16:00",
@@ -110,7 +110,12 @@
   "bytes": 4017260,
   "length": "17 min"
  },
- "video": null,
+ "video": {
+  "id": "ef7oV8j0sp8",
+  "day": "2026-11-23",
+  "title": "Rother Daily evening briefing, Monday 23 November",
+  "thumb": "/assets/video/2026-11-23.jpg"
+ },
  "otd": {
   "day": "2026-11-23",
   "url": "/on-this-day/2026-11-23/",
