@@ -1,0 +1,35 @@
+---
+layout: default
+title: Who represents you
+permalink: /representatives/
+description: Your MP and your local and county councillors, with their records and how to contact them. Checked every day.
+---
+{%- assign R = site.data.reps -%}
+<section class="narrow">
+<header class="page-head">
+  <h1>Who represents you</h1>
+  <p class="muted">{% if site.profile == "rother" %}Rother has two MPs: Bexhill and Battle, and Hastings and Rye (which takes in Rye, Winchelsea and eastern Rother). Rother District Council and East Sussex County Council share the local work, with town councils in Bexhill and Battle. Choose your area.{% else %}Hastings and St Leonards have one MP, for Hastings and Rye, and two councils share the local work: Hastings Borough Council and East Sussex County Council.{% endif %} Everything here is checked every day against Parliament and the councils, so it changes when the people do.</p>
+</header>
+<div class="areas">
+  {%- for a in R.areas %}
+  <a class="area-tile" href="{{ a.url | relative_url }}">
+    {%- if a.mp %}<img class="portrait" src="{{ a.mp.portrait }}" width="96" height="96" alt="" loading="lazy">{% else %}<span class="area-badge" aria-hidden="true">ESCC</span>{% endif %}
+    <span>
+      <span class="eyebrow">{% if a.county %}County council{% else %}Constituency{% endif %}</span>
+      <strong>{{ a.name }}</strong>
+      <span class="muted small">{% if a.mp %}MP {{ a.mp.name }} ({{ a.mp.party }}) · {{ a.councillors }} councillors{% else %}{{ a.councillors }} county councillors for this area{% endif %}</span>
+      {%- if a.about %}<span class="small">{{ a.about }}</span>{% endif %}
+    </span>
+  </a>
+  {%- endfor %}
+</div>
+<p><a class="button" href="{{ '/accountability/' | relative_url }}">Accountability: attendance and votes, compared</a></p>
+{%- if site.profile == "rother" %}<p class="muted small">Not sure which? Rye, Winchelsea, Camber, Fairlight and the eastern villages are in Hastings and Rye; Bexhill, Battle and most of the Rother villages are in Bexhill and Battle.</p>{% endif %}
+{%- if site.sister.url %}<p class="muted small">{% if site.profile == "rother" %}Live in Hastings or St Leonards?{% else %}Live in Bexhill, Battle, Rye or the Rother villages?{% endif %} Your councillors are on <a href="{{ site.sister.url }}representatives/">{{ site.sister.title }}</a>.</p>{% endif %}
+{%- if R.changes.size > 0 %}
+<section class="block">
+  <div class="section-head"><h2>Recent changes</h2></div>
+  <ul>{% for ch in R.changes %}<li><span class="muted">{{ ch.at | date: "%-d %b %Y" }}</span> {{ ch.text }}</li>{% endfor %}</ul>
+</section>
+{%- endif %}
+</section>

@@ -1,0 +1,37 @@
+[
+ {
+  "name": "Bexhill",
+  "slug": "bexhill",
+  "url": "/place/bexhill/",
+  "count": 0,
+  "own": true
+ },
+ {
+  "name": "Rye",
+  "slug": "rye",
+  "url": "/place/rye/",
+  "count": 0,
+  "own": true
+ },
+ {
+  "name": "Battle",
+  "slug": "battle",
+  "url": "/place/battle/",
+  "count": 0,
+  "own": true
+ },
+ {
+  "name": "Rother villages",
+  "slug": "rother-villages",
+  "url": "/place/rother-villages/",
+  "count": 0,
+  "own": true
+ },
+ {
+  "name": "East Sussex",
+  "slug": "east-sussex",
+  "url": "/place/east-sussex/",
+  "count": 0,
+  "own": true
+ }
+]

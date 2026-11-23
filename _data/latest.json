@@ -1,0 +1,53 @@
+{
+ "day": null,
+ "label": null,
+ "issue": 0,
+ "edition_label": null,
+ "forecast": [
+  {
+   "day": "2026-11-23",
+   "code": 3,
+   "words": "cloudy",
+   "icon": "☁️",
+   "high": 7,
+   "low": 5,
+   "rain_chance": 2,
+   "rain_mm": 0.0,
+   "wind": 11,
+   "gusts": 22,
+   "direction": "easterly",
+   "sunrise": "07:26",
+   "sunset": "16:01",
+   "summary": "Cloudy. A high of 7°C and a low of 5°C, a moderate breeze from the east. Sunrise 07:26, sunset 16:01.",
+   "label": "Today",
+   "weekday": "Mon 23 Nov",
+   "long": "Monday 23 November"
+  },
+  {
+   "day": "2026-11-24",
+   "code": 3,
+   "words": "cloudy",
+   "icon": "☁️",
+   "high": 8,
+   "low": 5,
+   "rain_chance": 6,
+   "rain_mm": 0.0,
+   "wind": 15,
+   "gusts": 29,
+   "direction": "south-easterly",
+   "sunrise": "07:28",
+   "sunset": "16:00",
+   "summary": "Cloudy. A high of 8°C and a low of 5°C, a moderate breeze from the south-east. Sunrise 07:28, sunset 16:00.",
+   "label": "Tomorrow",
+   "weekday": "Tue 24 Nov",
+   "long": "Tuesday 24 November"
+  }
+ ],
+ "today_label": "Monday 23 November 2026",
+ "today_short": "Mon 23 Nov",
+ "editions": [],
+ "weather": null,
+ "briefing": null,
+ "otd": null,
+ "days": []
+}

@@ -1,0 +1,113 @@
+[
+ {
+  "name": "Clare Cooden",
+  "slug": "clare-cooden",
+  "title": "Editor and briefing host",
+  "url": "/reporters/clare-cooden/",
+  "photo": "/assets/reporters/clare-cooden.jpg",
+  "bio": "Puts each edition together and presents the evening briefing.",
+  "beats": [],
+  "colour": "#14213d",
+  "artist": false
+ },
+ {
+  "name": "Rob Sidley",
+  "slug": "rob-sidley",
+  "title": "Crime and courts correspondent",
+  "url": "/reporters/rob-sidley/",
+  "photo": "/assets/reporters/rob-sidley.jpg",
+  "bio": "Covers police appeals, charges and court cases across Rother.",
+  "beats": [
+   "crime"
+  ],
+  "colour": "#b03a2e",
+  "artist": false
+ },
+ {
+  "name": "Anya Udimore",
+  "slug": "anya-udimore",
+  "title": "Politics correspondent",
+  "url": "/reporters/anya-udimore/",
+  "photo": "/assets/reporters/anya-udimore.jpg",
+  "bio": "Follows both MPs, the district council's politics and elections.",
+  "beats": [
+   "politics"
+  ],
+  "colour": "#6b3fa0",
+  "artist": false
+ },
+ {
+  "name": "Hugh Pebsham",
+  "slug": "hugh-pebsham",
+  "title": "Council and public services reporter",
+  "url": "/reporters/hugh-pebsham/",
+  "photo": "/assets/reporters/hugh-pebsham.jpg",
+  "bio": "Turns Rother and county council decisions into what they mean for you.",
+  "beats": [
+   "council"
+  ],
+  "colour": "#1f6f8b",
+  "artist": false
+ },
+ {
+  "name": "Jess Peasmarsh",
+  "slug": "jess-peasmarsh",
+  "title": "Community and people reporter",
+  "url": "/reporters/jess-peasmarsh/",
+  "photo": "/assets/reporters/jess-peasmarsh.jpg",
+  "bio": "Writes about the people, charities, schools and events of Rother.",
+  "beats": [
+   "community"
+  ],
+  "colour": "#c0742a",
+  "artist": false
+ },
+ {
+  "name": "Owen Etchingham",
+  "slug": "owen-etchingham",
+  "title": "Business reporter",
+  "url": "/reporters/owen-etchingham/",
+  "photo": "/assets/reporters/owen-etchingham.jpg",
+  "bio": "Covers local shops, farms, jobs, openings and closures.",
+  "beats": [
+   "business"
+  ],
+  "colour": "#2e7d4f",
+  "artist": false
+ },
+ {
+  "name": "Kit Ninfield",
+  "slug": "kit-ninfield",
+  "title": "Traffic and roadworks reporter",
+  "url": "/reporters/kit-ninfield/",
+  "photo": "/assets/reporters/kit-ninfield.jpg",
+  "bio": "Knows every closure on the A21, A259 and A2100. Brisk and useful.",
+  "beats": [
+   "traffic"
+  ],
+  "colour": "#9a7b12",
+  "artist": false
+ },
+ {
+  "name": "Mabel Bodiam",
+  "slug": "mabel-bodiam",
+  "title": "Local history writer",
+  "url": "/reporters/mabel-bodiam/",
+  "photo": "/assets/reporters/mabel-bodiam.jpg",
+  "bio": "Tells a story from the history of Rother and the 1066 Country.",
+  "beats": [],
+  "colour": "#7a5c3e",
+  "artist": false
+ },
+ {
+  "name": "Tess Iden",
+  "slug": "tess-iden",
+  "title": "Picture editor and illustrator",
+  "url": "/reporters/tess-iden/",
+  "photo": "/assets/reporters/tess-iden.jpg",
+  "bio": "Finds a photo for every story and, when no real one fits, draws an illustration instead. Never pictures real people or makes a scene look like a photo of the actual event.",
+  "beats": [],
+  "colour": "#5b4a8b",
+  "artist": true
+ }
+]

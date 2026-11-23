@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Rother Daily: Business</title>
+  <link>https://theknowledgecabinet.github.io/rother-daily/section/business/</link>
+  <atom:link href="https://theknowledgecabinet.github.io/rother-daily/feeds/business.xml" rel="self" type="application/rss+xml"/>
+  <description>Local news for Bexhill, Battle, Rye and the Rother villages, morning and evening.</description>
+  <language>en-gb</language>
+  <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+title: Rother Daily
+description: Local news for Bexhill, Battle, Rye and the Rother villages, morning
+  and evening.
+url: https://theknowledgecabinet.github.io
+baseurl: /rother-daily
+repo_url: https://github.com/theknowledgecabinet/rother-daily
+timezone: Europe/London
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: ''
+collections:
+  stories:
+    output: true
+  otd:
+    output: true
+exclude:
+- README.md
+profile: rother
+wordmark: Rother
+area_line: Bexhill · Battle · Rye · Rother villages
+area_text: Bexhill, Battle, Rye and the Rother villages
+weather_place: Bexhill
+editions_text: morning and evening
+councils_text: Rother District Council, East Sussex County Council and the Bexhill
+  and Battle town councils
+accent: '#2e6b45'
+accent_dark: '#8cc7a0'
+sister:
+  title: Hastings Daily
+  url: https://theknowledgecabinet.github.io/hastings-news/
+  about: Hastings and St Leonards
+mps:
+- Bexhill and Battle
+- Hastings and Rye
+artist:
+  name: Tess Iden
+  url: /reporters/tess-iden/
