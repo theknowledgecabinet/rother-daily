@@ -22,7 +22,7 @@ layout: default
     {%- if L.briefing %}
     <span>Evening briefing<br><a href="{{ '/podcast/' | relative_url }}"><strong>🎧 Listen · {{ L.briefing.length }}</strong></a></span>
     {%- else %}
-    <span>Local news<br><strong>three times a day</strong></span>
+    <span>Local news<br><strong>{{ site.editions_text }}</strong></span>
     {%- endif %}
   </div>
 </header>
