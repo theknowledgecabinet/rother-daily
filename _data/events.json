@@ -1,1 +1,57 @@
-[]
+[
+ {
+  "starts": "2026-11-26",
+  "ends": null,
+  "title": "RLN Music Presents: Elkie Brooks",
+  "time": "7.30pm",
+  "venue": "The De La Warr Pavilion, Bexhill",
+  "places": "Bexhill",
+  "url": "https://www.dlwp.com/event/elkie-brooks/",
+  "summary": "Elkie Brooks performs her 'Long Farewell Tour' live in concert, celebrating 65 years of music with hits and material from her new album.",
+  "when": "Thu 26 Nov"
+ },
+ {
+  "starts": "2026-11-26",
+  "ends": null,
+  "title": "Rye Market",
+  "time": "7:00am – 2:00pm",
+  "venue": "Cattle Market Car Park, Rye",
+  "places": "Rye",
+  "url": "https://ryesussex.uk/events/shopping-fairs-markets/rye-market/",
+  "summary": "A weekly market with a large range of stalls, open all year round. Come down to support local trading and small businesses.",
+  "when": "Thu 26 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": null,
+  "title": "Henry V by William Shakespeare",
+  "time": "3:00pm – 6:00pm",
+  "venue": "The Mermaid Inn, Rye",
+  "places": "Rye",
+  "url": "https://ryesussex.uk/events/festivals-and-carnivals/rye-christmas-festival/henry-v-by-william-shakespeare-3/",
+  "summary": "A theatre production of Shakespeare's history play, following King Henry's invasion of France and the Battle of Agincourt. The performance takes place inside the Tudor Rooms with allocated seating.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": "2027-01-03",
+  "title": "Christmas at Bodiam Castle",
+  "time": "10am– 3.30pm",
+  "venue": "Bodiam Castle, Near Robertsbridge",
+  "places": "Rother villages",
+  "url": "https://www.visit1066country.com/whats-on/christmas-at-bodiam-castle-p2971051",
+  "summary": "Enjoy a winter walk with hot chocolate, write to Father Christmas and take a photo in his sleigh. Explore decorated trees and a festive trail, or book a Christmas lunch at the Wharf tea-room.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-29",
+  "ends": null,
+  "title": "Charles Barnett comic singer songwriter",
+  "time": "7:00 PM",
+  "venue": "The Chapel, Battle",
+  "places": "Battle",
+  "url": "https://allevents.in/bexhill/charles-barnett-comic-singer-songwriter/200030757212833",
+  "summary": "Charles Barnett performs a full evening of live music, laughs and feel-good entertainment at The Chapel, featuring classic singalong favourites and original songs.",
+  "when": "Sun 29 Nov"
+ }
+]
