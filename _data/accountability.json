@@ -22,7 +22,7 @@
    "absent": 0,
    "other": 1,
    "declarations": 1,
-   "votes": 0,
+   "votes": 2,
    "rate": 83,
    "committees": 1
   },
@@ -47,8 +47,8 @@
    "apologies": 0,
    "absent": 0,
    "other": 2,
-   "declarations": 0,
-   "votes": 0,
+   "declarations": 1,
+   "votes": 2,
    "rate": 100,
    "committees": 2
   },
@@ -73,7 +73,7 @@
    "absent": 0,
    "other": 12,
    "declarations": 0,
-   "votes": 0,
+   "votes": 2,
    "rate": 100,
    "committees": 6
   },
@@ -98,7 +98,7 @@
    "absent": 0,
    "other": 16,
    "declarations": 1,
-   "votes": 2,
+   "votes": 4,
    "rate": 89,
    "committees": 6
   },
@@ -122,8 +122,8 @@
    "apologies": 0,
    "absent": 0,
    "other": 3,
-   "declarations": 0,
-   "votes": 0,
+   "declarations": 1,
+   "votes": 2,
    "rate": 100,
    "committees": 2
   },
@@ -148,7 +148,7 @@
    "absent": 0,
    "other": 0,
    "declarations": 1,
-   "votes": 0,
+   "votes": 2,
    "rate": 100,
    "committees": 2
   },
@@ -173,7 +173,7 @@
    "absent": 0,
    "other": 20,
    "declarations": 2,
-   "votes": 2,
+   "votes": 4,
    "rate": 96,
    "committees": 6
   },
@@ -198,7 +198,7 @@
    "absent": 0,
    "other": 2,
    "declarations": 0,
-   "votes": 0,
+   "votes": 2,
    "rate": 86,
    "committees": 5
   },
@@ -221,9 +221,9 @@
    "present": 7,
    "apologies": 1,
    "absent": 0,
-   "other": 4,
+   "other": 5,
    "declarations": 0,
-   "votes": 0,
+   "votes": 2,
    "rate": 88,
    "committees": 5
   },
@@ -1270,8 +1270,8 @@
      "present": 33,
      "apologies": 3,
      "absent": 0,
-     "other": 11,
-     "declarations": 1,
+     "other": 12,
+     "declarations": 3,
      "rate": 92
     },
     {
@@ -1313,8 +1313,8 @@
    "present": 94,
    "apologies": 8,
    "absent": 0,
-   "other": 60,
-   "declarations": 5,
+   "other": 61,
+   "declarations": 7,
    "rate": 92
   }
  ],
@@ -1453,6 +1453,210 @@
   "total": 26
  },
  "votes": [
+  {
+   "council": "East Sussex County Council",
+   "council_key": "escc",
+   "committee": "Full Council",
+   "day": "2026-10-13",
+   "item": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+   "motion": "on the motion moved by Councillor Lunn",
+   "result": "Carried",
+   "for": 24,
+   "against": 0,
+   "abstain": 20,
+   "matched": 44,
+   "parties": [
+    {
+     "party": "Reform UK",
+     "for": 20,
+     "against": 0,
+     "abstain": 0
+    },
+    {
+     "party": "Green Party",
+     "for": 0,
+     "against": 0,
+     "abstain": 10
+    },
+    {
+     "party": "Liberal Democrats",
+     "for": 0,
+     "against": 0,
+     "abstain": 9
+    },
+    {
+     "party": "Conservative",
+     "for": 3,
+     "against": 0,
+     "abstain": 0
+    },
+    {
+     "party": "Independent",
+     "for": 1,
+     "against": 0,
+     "abstain": 1
+    }
+   ],
+   "local": [
+    {
+     "name": "Mark Ashdown",
+     "party": "Reform UK",
+     "how": "for",
+     "ref": "5312"
+    },
+    {
+     "name": "Daniel Bradley",
+     "party": "Independent",
+     "how": "for",
+     "ref": "5308"
+    },
+    {
+     "name": "Victoria Carson",
+     "party": "Reform UK",
+     "how": "for",
+     "ref": "5310"
+    },
+    {
+     "name": "Kathryn Field",
+     "party": "Liberal Democrats",
+     "how": "abstain",
+     "ref": "22"
+    },
+    {
+     "name": "Martin Kenward",
+     "party": "Reform UK",
+     "how": "for",
+     "ref": "5298"
+    },
+    {
+     "name": "Daniel Lach",
+     "party": "Reform UK",
+     "how": "for",
+     "ref": "5317"
+    },
+    {
+     "name": "Pete Morley",
+     "party": "Reform UK",
+     "how": "for",
+     "ref": "5307"
+    },
+    {
+     "name": "Paul Redstone",
+     "party": "Conservative",
+     "how": "for",
+     "ref": "2304"
+    },
+    {
+     "name": "Donald Walmsley",
+     "party": "Reform UK",
+     "how": "for",
+     "ref": "5294"
+    }
+   ],
+   "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4"
+  },
+  {
+   "council": "East Sussex County Council",
+   "council_key": "escc",
+   "committee": "Full Council",
+   "day": "2026-10-13",
+   "item": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+   "motion": "on the amendment moved by Councillor Keenan",
+   "result": "Lost",
+   "for": 20,
+   "against": 23,
+   "abstain": 0,
+   "matched": 43,
+   "parties": [
+    {
+     "party": "Reform UK",
+     "for": 0,
+     "against": 20,
+     "abstain": 0
+    },
+    {
+     "party": "Green Party",
+     "for": 10,
+     "against": 0,
+     "abstain": 0
+    },
+    {
+     "party": "Liberal Democrats",
+     "for": 8,
+     "against": 0,
+     "abstain": 0
+    },
+    {
+     "party": "Conservative",
+     "for": 0,
+     "against": 3,
+     "abstain": 0
+    },
+    {
+     "party": "Independent",
+     "for": 2,
+     "against": 0,
+     "abstain": 0
+    }
+   ],
+   "local": [
+    {
+     "name": "Mark Ashdown",
+     "party": "Reform UK",
+     "how": "against",
+     "ref": "5312"
+    },
+    {
+     "name": "Daniel Bradley",
+     "party": "Independent",
+     "how": "for",
+     "ref": "5308"
+    },
+    {
+     "name": "Victoria Carson",
+     "party": "Reform UK",
+     "how": "against",
+     "ref": "5310"
+    },
+    {
+     "name": "Kathryn Field",
+     "party": "Liberal Democrats",
+     "how": "for",
+     "ref": "22"
+    },
+    {
+     "name": "Martin Kenward",
+     "party": "Reform UK",
+     "how": "against",
+     "ref": "5298"
+    },
+    {
+     "name": "Daniel Lach",
+     "party": "Reform UK",
+     "how": "against",
+     "ref": "5317"
+    },
+    {
+     "name": "Pete Morley",
+     "party": "Reform UK",
+     "how": "against",
+     "ref": "5307"
+    },
+    {
+     "name": "Paul Redstone",
+     "party": "Conservative",
+     "how": "against",
+     "ref": "2304"
+    },
+    {
+     "name": "Donald Walmsley",
+     "party": "Reform UK",
+     "how": "against",
+     "ref": "5294"
+    }
+   ],
+   "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4"
+  },
   {
    "council": "East Sussex County Council",
    "council_key": "escc",

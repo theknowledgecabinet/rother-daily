@@ -57,7 +57,7 @@
    "attended": 16,
    "substitute": 0,
    "declarations": 1,
-   "votes": 2
+   "votes": 4
   },
   "rate": 89,
   "upcoming": [
@@ -154,7 +154,7 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Full Council",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
       "business": [
        "Report of the Cabinet",
        "Report of the Governance Committee",
@@ -166,6 +166,30 @@
        "Notice of Motion - Declaring East Sussex a County of Harm Reduction"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "abstain",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+      "motion": "on the motion moved by Councillor Lunn",
+      "result": "Carried",
+      "for": 24,
+      "against": 0,
+      "abstain": 20
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+      "motion": "on the amendment moved by Councillor Keenan",
+      "result": "Lost",
+      "for": 20,
+      "against": 23,
+      "abstain": 0
      }
     ]
    },
@@ -998,7 +1022,7 @@
    }
   ],
   "ref_raw": "22",
-  "summary": "Kathryn Field is a Liberal Democrat councillor for Battle and Crowhurst on East Sussex County Council, a councillor since January 1992. Their posts: Leader of the Liberal Democrat Group. In the last 12 months they were expected at 27 meetings and attended 24 (89%). The comparable figure is 92% for all East Sussex County Council councillors in this area. They sent apologies for 3 meetings. They also attended 16 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies, chairing Corporate Parenting Panel. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Kathryn Field is a Liberal Democrat councillor for Battle and Crowhurst on East Sussex County Council, a councillor since January 1992. Their posts: Leader of the Liberal Democrat Group. In the last 12 months they were expected at 27 meetings and attended 24 (89%). The comparable figure is 92% for all East Sussex County Council councillors in this area. They sent apologies for 3 meetings. They also attended 16 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies, chairing Corporate Parenting Panel. They declared an interest at 1 meeting. They took part in 4 named votes, voting the same way as most of their party group in 4."
  },
  "escc-5298": {
   "name": "Martin Kenward",
@@ -1034,7 +1058,7 @@
    "attended": 0,
    "substitute": 0,
    "declarations": 1,
-   "votes": 0
+   "votes": 2
   },
   "rate": 100,
   "upcoming": [
@@ -1054,7 +1078,7 @@
       "how": "present",
       "role": "Chairman",
       "committee": "Full Council",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
       "business": [
        "Report of the Cabinet",
        "Report of the Governance Committee",
@@ -1066,6 +1090,30 @@
        "Notice of Motion - Declaring East Sussex a County of Harm Reduction"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+      "motion": "on the motion moved by Councillor Lunn",
+      "result": "Carried",
+      "for": 24,
+      "against": 0,
+      "abstain": 20
+     },
+     {
+      "kind": "vote",
+      "how": "against",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+      "motion": "on the amendment moved by Councillor Keenan",
+      "result": "Lost",
+      "for": 20,
+      "against": 23,
+      "abstain": 0
      }
     ]
    },
@@ -1126,7 +1174,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5298",
   "also": [],
   "ref_raw": "5298",
-  "summary": "Martin Kenward is a Reform UK councillor for Bexhill East on East Sussex County Council, a councillor since May 2026. Their posts: Chairman of the County Council. In the last 12 months they were expected at 3 meetings and attended 3 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sit on 2 committees and bodies, chairing Full Council and Regulatory Committee. They declared an interest at 1 meeting."
+  "summary": "Martin Kenward is a Reform UK councillor for Bexhill East on East Sussex County Council, a councillor since May 2026. Their posts: Chairman of the County Council. In the last 12 months they were expected at 3 meetings and attended 3 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sit on 2 committees and bodies, chairing Full Council and Regulatory Committee. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5294": {
   "name": "Donald Walmsley",
@@ -1186,7 +1234,7 @@
    "attended": 12,
    "substitute": 0,
    "declarations": 0,
-   "votes": 0
+   "votes": 2
   },
   "rate": 100,
   "upcoming": [
@@ -1241,7 +1289,7 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Full Council",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
       "business": [
        "Report of the Cabinet",
        "Report of the Governance Committee",
@@ -1253,6 +1301,30 @@
        "Notice of Motion - Declaring East Sussex a County of Harm Reduction"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+      "motion": "on the motion moved by Councillor Lunn",
+      "result": "Carried",
+      "for": 24,
+      "against": 0,
+      "abstain": 20
+     },
+     {
+      "kind": "vote",
+      "how": "against",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+      "motion": "on the amendment moved by Councillor Keenan",
+      "result": "Lost",
+      "for": 20,
+      "against": 23,
+      "abstain": 0
      }
     ]
    },
@@ -1629,7 +1701,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5294",
   "also": [],
   "ref_raw": "5294",
-  "summary": "Donald Walmsley is a Conservative councillor for Bexhill North on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 8 meetings and attended 8 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 97% for its Conservative councillors here. They also attended 12 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
+  "summary": "Donald Walmsley is a Conservative councillor for Bexhill North on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 8 meetings and attended 8 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 97% for its Conservative councillors here. They also attended 12 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5310": {
   "name": "Victoria Carson",
@@ -1680,10 +1752,10 @@
    "present": 7,
    "apologies": 1,
    "absent": 0,
-   "attended": 3,
+   "attended": 4,
    "substitute": 1,
    "declarations": 0,
-   "votes": 0
+   "votes": 2
   },
   "rate": 88,
   "upcoming": [
@@ -1707,6 +1779,25 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-23",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "attended",
+      "role": "Committee Member",
+      "committee": "People Scrutiny Committee",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=515&MId=6823",
+      "business": [
+       "East Sussex Safeguarding Children Partnership (ESSCP) Annual Report",
+       "Crisis and Resilience Fund",
+       "Carers Partnership Plan",
+       "Any other items previously notified under agenda item 4"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-19",
     "items": [
@@ -1757,7 +1848,7 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Full Council",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
       "business": [
        "Report of the Cabinet",
        "Report of the Governance Committee",
@@ -1769,6 +1860,30 @@
        "Notice of Motion - Declaring East Sussex a County of Harm Reduction"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+      "motion": "on the motion moved by Councillor Lunn",
+      "result": "Carried",
+      "for": 24,
+      "against": 0,
+      "abstain": 20
+     },
+     {
+      "kind": "vote",
+      "how": "against",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+      "motion": "on the amendment moved by Councillor Keenan",
+      "result": "Lost",
+      "for": 20,
+      "against": 23,
+      "abstain": 0
      }
     ]
    },
@@ -1967,7 +2082,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5310",
   "also": [],
   "ref_raw": "5310",
-  "summary": "Victoria Carson is a Reform UK councillor for Bexhill South on East Sussex County Council, a councillor since May 2026. Their posts: Lead Member for Children and Families. In the last 12 months they were expected at 8 meetings and attended 7 (88%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
+  "summary": "Victoria Carson is a Reform UK councillor for Bexhill South on East Sussex County Council, a councillor since May 2026. Their posts: Lead Member for Children and Families. In the last 12 months they were expected at 8 meetings and attended 7 (88%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 5 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5307": {
   "name": "Pete Morley",
@@ -2021,7 +2136,7 @@
    "attended": 2,
    "substitute": 0,
    "declarations": 0,
-   "votes": 0
+   "votes": 2
   },
   "rate": 86,
   "upcoming": [
@@ -2122,7 +2237,7 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Full Council",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
       "business": [
        "Report of the Cabinet",
        "Report of the Governance Committee",
@@ -2134,6 +2249,30 @@
        "Notice of Motion - Declaring East Sussex a County of Harm Reduction"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+      "motion": "on the motion moved by Councillor Lunn",
+      "result": "Carried",
+      "for": 24,
+      "against": 0,
+      "abstain": 20
+     },
+     {
+      "kind": "vote",
+      "how": "against",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+      "motion": "on the amendment moved by Councillor Keenan",
+      "result": "Lost",
+      "for": 20,
+      "against": 23,
+      "abstain": 0
      }
     ]
    },
@@ -2402,7 +2541,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5307",
   "also": [],
   "ref_raw": "5307",
-  "summary": "Pete Morley is a Reform UK councillor for Bexhill West on East Sussex County Council, a councillor since May 2026. Their posts: Deputy Leader of the Council and Lead Member for Economy. In the last 12 months they were expected at 14 meetings and attended 12 (86%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies."
+  "summary": "Pete Morley is a Reform UK councillor for Bexhill West on East Sussex County Council, a councillor since May 2026. Their posts: Deputy Leader of the Council and Lead Member for Economy. In the last 12 months they were expected at 14 meetings and attended 12 (86%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5317": {
   "name": "Daniel Lach",
@@ -2437,8 +2576,8 @@
    "absent": 0,
    "attended": 2,
    "substitute": 0,
-   "declarations": 0,
-   "votes": 0
+   "declarations": 1,
+   "votes": 2
   },
   "rate": 100,
   "upcoming": [
@@ -2488,7 +2627,7 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Full Council",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
       "business": [
        "Report of the Cabinet",
        "Report of the Governance Committee",
@@ -2500,6 +2639,36 @@
        "Notice of Motion - Declaring East Sussex a County of Harm Reduction"
       ],
       "decided": []
+     },
+     {
+      "kind": "declaration",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "text": "Councillor Lach declared an interest in item 14 as a member of the East Sussex Fire Authority. He did not consider this to be prejudicial."
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+      "motion": "on the motion moved by Councillor Lunn",
+      "result": "Carried",
+      "for": 24,
+      "against": 0,
+      "abstain": 20
+     },
+     {
+      "kind": "vote",
+      "how": "against",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+      "motion": "on the amendment moved by Councillor Keenan",
+      "result": "Lost",
+      "for": 20,
+      "against": 23,
+      "abstain": 0
      }
     ]
    },
@@ -2638,7 +2807,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5317",
   "also": [],
   "ref_raw": "5317",
-  "summary": "Daniel Lach is a Reform UK councillor for Brede Valley and Marsham on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 6 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies."
+  "summary": "Daniel Lach is a Reform UK councillor for Brede Valley and Marsham on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 6 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-2304": {
   "name": "Paul Redstone",
@@ -2698,7 +2867,7 @@
    "attended": 20,
    "substitute": 0,
    "declarations": 2,
-   "votes": 2
+   "votes": 4
   },
   "rate": 96,
   "upcoming": [
@@ -2801,7 +2970,7 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Full Council",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
       "business": [
        "Report of the Cabinet",
        "Report of the Governance Committee",
@@ -2813,6 +2982,30 @@
        "Notice of Motion - Declaring East Sussex a County of Harm Reduction"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+      "motion": "on the motion moved by Councillor Lunn",
+      "result": "Carried",
+      "for": 24,
+      "against": 0,
+      "abstain": 20
+     },
+     {
+      "kind": "vote",
+      "how": "against",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+      "motion": "on the amendment moved by Councillor Keenan",
+      "result": "Lost",
+      "for": 20,
+      "against": 23,
+      "abstain": 0
      }
     ]
    },
@@ -3703,7 +3896,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=2304",
   "also": [],
   "ref_raw": "2304",
-  "summary": "Paul Redstone is a Conservative councillor for Northern Rother on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Conservative Group. In the last 12 months they were expected at 25 meetings and attended 24 (96%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 97% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 20 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Paul Redstone is a Conservative councillor for Northern Rother on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Conservative Group. In the last 12 months they were expected at 25 meetings and attended 24 (96%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 97% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 20 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings. They took part in 4 named votes, voting the same way as most of their party group in 4."
  },
  "escc-5312": {
   "name": "Mark Ashdown",
@@ -3738,8 +3931,8 @@
    "absent": 0,
    "attended": 3,
    "substitute": 0,
-   "declarations": 0,
-   "votes": 0
+   "declarations": 1,
+   "votes": 2
   },
   "rate": 100,
   "upcoming": [
@@ -3786,7 +3979,7 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Full Council",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
       "business": [
        "Report of the Cabinet",
        "Report of the Governance Committee",
@@ -3798,6 +3991,36 @@
        "Notice of Motion - Declaring East Sussex a County of Harm Reduction"
       ],
       "decided": []
+     },
+     {
+      "kind": "declaration",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "text": "Councillor Ashdown declared an interest in item 10 as a resident in a village in East Sussex that currently has a 50 mph speed limit. He did not consider this to be prejudicial."
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+      "motion": "on the motion moved by Councillor Lunn",
+      "result": "Carried",
+      "for": 24,
+      "against": 0,
+      "abstain": 20
+     },
+     {
+      "kind": "vote",
+      "how": "against",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+      "motion": "on the amendment moved by Councillor Keenan",
+      "result": "Lost",
+      "for": 20,
+      "against": 23,
+      "abstain": 0
      }
     ]
    },
@@ -3937,7 +4160,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5312",
   "also": [],
   "ref_raw": "5312",
-  "summary": "Mark Ashdown is a Reform UK councillor for Rother North West on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 5 meetings and attended 5 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies."
+  "summary": "Mark Ashdown is a Reform UK councillor for Rother North West on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 5 meetings and attended 5 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5308": {
   "name": "Daniel Bradley",
@@ -3967,7 +4190,7 @@
    "attended": 1,
    "substitute": 0,
    "declarations": 1,
-   "votes": 0
+   "votes": 2
   },
   "rate": 83,
   "upcoming": [
@@ -3987,7 +4210,7 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Full Council",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
       "business": [
        "Report of the Cabinet",
        "Report of the Governance Committee",
@@ -3999,6 +4222,30 @@
        "Notice of Motion - Declaring East Sussex a County of Harm Reduction"
       ],
       "decided": []
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Safeguarding the Uckfield to Lewes Railway Corridor",
+      "motion": "on the motion moved by Councillor Lunn",
+      "result": "Carried",
+      "for": 24,
+      "against": 0,
+      "abstain": 20
+     },
+     {
+      "kind": "vote",
+      "how": "for",
+      "committee": "Full Council",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=150&MId=6774&Ver=4",
+      "title": "Notice of Motion - Village Speed Limits: A consistent maximum 30mph default across East Sussex",
+      "motion": "on the amendment moved by Councillor Keenan",
+      "result": "Lost",
+      "for": 20,
+      "against": 23,
+      "abstain": 0
      }
     ]
    },
@@ -4139,7 +4386,7 @@
    }
   ],
   "ref_raw": "5308",
-  "summary": "Daniel Bradley is an Independent councillor for Rye and Eastern Rother on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 92% for all East Sussex County Council councillors in this area. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 1 committee or body. They declared an interest at 1 meeting."
+  "summary": "Daniel Bradley is an Independent councillor for Rye and Eastern Rother on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 92% for all East Sussex County Council councillors in this area. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 1 committee or body. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "rdc-469": {
   "name": "Christine Bayliss",
@@ -4225,12 +4472,10 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -4253,7 +4498,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -4950,12 +5200,10 @@
       "how": "apologies",
       "role": "Committee Member",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -5550,12 +5798,10 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -6083,12 +6329,10 @@
       "how": "present",
       "role": "Chair",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -7258,7 +7502,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -8387,7 +8636,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -9584,12 +9838,10 @@
       "how": "present",
       "role": "Vice-Chair",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -10331,12 +10583,10 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -11135,7 +11385,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -11913,7 +12168,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -13487,7 +13747,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -14188,12 +14453,10 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -14794,12 +15057,10 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -15906,12 +16167,10 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -15952,7 +16211,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -17292,12 +17556,10 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -18203,12 +18465,10 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -18888,7 +19148,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -19492,12 +19757,10 @@
       "how": "apologies",
       "role": "Committee Member",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -19538,7 +19801,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -22998,12 +23266,10 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Shareholder Executive Committee (Sub-Committee of Cabinet)",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=328&MId=1167&Ver=4",
       "business": [
        "Performance Monitoring Report",
-       "Mitigations and Options Appraisal",
-       "Performance Monitoring Report - Confidential Appendices A, B and C (Paragraph 3)",
-       "Mitigations and Options Appraisal - Confidential Appendix A"
+       "Mitigations and Options Appraisal"
       ],
       "decided": []
      }
@@ -23026,7 +23292,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -23688,7 +23959,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -24467,7 +24743,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -26230,7 +26511,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
@@ -26919,7 +27205,12 @@
        "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye",
        "To note the date and time for future Site Inspections"
       ],
-      "decided": []
+      "decided": [
+       "RR/2026/1006/FULL & RR/2026/1007/LBC - The Colonnade, The Promenade, Bexhill",
+       "RR/2026/1148/FULL - East Sussex County Council Highways Dept Yard, 4 Elva Way, Bexhill",
+       "RR/2026/1237/LBC - Rother District Council, Town Hall, London Road, Bexhill",
+       "RR/2026/0675/FULL - 40-42 Cinque Ports Street, Rye"
+      ]
      }
     ]
    },
