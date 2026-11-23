@@ -37,23 +37,34 @@ sources:
   name: official record
 image:
   card:
-    url: /assets/media/abstract/story-6/card.webp
+    url: /assets/media/story/6/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-6/medium.webp
+    url: /assets/media/story/6/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-6/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/6/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-6/share.jpg
-  color: '#174854'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/6/share.jpg
+  color: '#554333'
+  alt: Empty council meeting room with a single lit desk lamp
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Tess Iden
+    slug: tess-iden
+    title: Picture editor and illustrator
+    url: /reporters/tess-iden/
+    photo: /assets/reporters/tess-iden.jpg
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 series: accountability
 series_label: Political accountability
 series_record: /accountability/week/2026-11-21/rother-district/

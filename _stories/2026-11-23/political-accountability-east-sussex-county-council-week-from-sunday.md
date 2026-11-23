@@ -41,23 +41,34 @@ sources:
   name: official record
 image:
   card:
-    url: /assets/media/abstract/story-5/card.webp
+    url: /assets/media/story/5/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-5/medium.webp
+    url: /assets/media/story/5/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-5/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/5/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-5/share.jpg
-  color: '#185765'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/5/share.jpg
+  color: '#5a4f41'
+  alt: Empty council meeting room with one distant figure
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Tess Iden
+    slug: tess-iden
+    title: Picture editor and illustrator
+    url: /reporters/tess-iden/
+    photo: /assets/reporters/tess-iden.jpg
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-23T10:46:56+00:00'
 series: accountability
 series_label: Political accountability
