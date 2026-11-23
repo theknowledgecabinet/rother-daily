@@ -65,6 +65,10 @@ image:
   licence_url: null
   page: ''
   default: false
+related:
+- url: /2026/11/23/battle-christmas-events-begin-with-fair-and-light-switch-on/
+  title: Battle Christmas events begin with fair and light switch-on
+  day: '2026-11-23'
 series: accountability
 series_label: Political accountability
 series_record: /accountability/week/2026-11-21/rother-district/

@@ -6,7 +6,17 @@
   <atom:link href="https://theknowledgecabinet.github.io/rother-daily/feeds/traffic.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Bexhill, Battle, Rye and the Rother villages, morning and evening.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
-
+  <lastBuildDate>Mon, 23 Nov 2026 19:10:09 +0000</lastBuildDate>
+  <item>
+    <title>Bexhill zebra crossing relocated to improve safety</title>
+    <link>https://theknowledgecabinet.github.io/rother-daily/2026/11/23/bexhill-zebra-crossing-relocated-to-improve-safety/</link>
+    <guid isPermaLink="false">story-9</guid>
+    <pubDate>Mon, 23 Nov 2026 19:10:09 +0000</pubDate>
+    <category>Traffic &amp; roadworks</category>
+    <description>A zebra crossing in Bexhill town centre has been relocated further south, the county council said. The move allows motorists to complete a full turn from Endwell Road before stopping at the crossing, improving safety for pedestrians.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/9/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
 </channel>
 </rss>

@@ -3,21 +3,21 @@
   "name": "Bexhill",
   "slug": "bexhill",
   "url": "/place/bexhill/",
-  "count": 4,
+  "count": 9,
   "own": true
  },
  {
   "name": "Rye",
   "slug": "rye",
   "url": "/place/rye/",
-  "count": 3,
+  "count": 4,
   "own": true
  },
  {
   "name": "Battle",
   "slug": "battle",
   "url": "/place/battle/",
-  "count": 4,
+  "count": 5,
   "own": true
  },
  {
@@ -31,7 +31,7 @@
   "name": "East Sussex",
   "slug": "east-sussex",
   "url": "/place/east-sussex/",
-  "count": 1,
+  "count": 4,
   "own": true
  }
 ]
