@@ -1,8 +1,8 @@
 {
- "day": null,
- "label": null,
- "issue": 0,
- "edition_label": null,
+ "day": "2026-11-23",
+ "label": "Monday 23 November 2026",
+ "issue": 1,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-23",
@@ -45,9 +45,51 @@
  ],
  "today_label": "Monday 23 November 2026",
  "today_short": "Mon 23 Nov",
- "editions": [],
- "weather": null,
+ "editions": [
+  {
+   "name": "morning",
+   "label": "Morning edition",
+   "weather": {
+    "day": "2026-11-23",
+    "code": 3,
+    "words": "cloudy",
+    "icon": "☁️",
+    "high": 7,
+    "low": 5,
+    "rain_chance": 2,
+    "rain_mm": 0.0,
+    "wind": 11,
+    "gusts": 22,
+    "direction": "easterly",
+    "sunrise": "07:26",
+    "sunset": "16:01",
+    "summary": "Cloudy. A high of 7°C and a low of 5°C, a moderate breeze from the east. Sunrise 07:26, sunset 16:01."
+   }
+  }
+ ],
+ "weather": {
+  "day": "2026-11-23",
+  "code": 3,
+  "words": "cloudy",
+  "icon": "☁️",
+  "high": 7,
+  "low": 5,
+  "rain_chance": 2,
+  "rain_mm": 0.0,
+  "wind": 11,
+  "gusts": 22,
+  "direction": "easterly",
+  "sunrise": "07:26",
+  "sunset": "16:01",
+  "summary": "Cloudy. A high of 7°C and a low of 5°C, a moderate breeze from the east. Sunrise 07:26, sunset 16:01."
+ },
  "briefing": null,
  "otd": null,
- "days": []
+ "days": [
+  {
+   "day": "2026-11-23",
+   "url": "/2026/11/23/",
+   "label": "Mon 23 Nov"
+  }
+ ]
 }

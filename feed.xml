@@ -6,7 +6,22 @@
   <atom:link href="https://theknowledgecabinet.github.io/rother-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Bexhill, Battle, Rye and the Rother villages, morning and evening.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
-
+  <lastBuildDate>Mon, 23 Nov 2026 08:16:27 +0000</lastBuildDate>
+  <item>
+    <title>Bexhill beat Midhurst 5-1 to climb to sixth</title>
+    <link>https://theknowledgecabinet.github.io/rother-daily/2026/11/23/bexhill-beat-midhurst-5-1-to-climb-to-sixth/</link>
+    <guid isPermaLink="false">story-2</guid>
+    <pubDate>Mon, 23 Nov 2026 08:16:27 +0000</pubDate>
+    <category>Community &amp; people</category>
+    <description>Bexhill put five past Midhurst and Easebourne in the latest in a long run of Polegrove fixtures which has seen the Pirates move steadily up the table. The win continues a strong run of form for the Pirates, who have been climbing steadily since September.</description>
+  </item>
+  <item>
+    <title>Crowhurst Park Lodges wins Hoseasons guest satisfaction award</title>
+    <link>https://theknowledgecabinet.github.io/rother-daily/2026/11/23/crowhurst-park-lodges-wins-hoseasons-guest-satisfaction-award/</link>
+    <guid isPermaLink="false">story-1</guid>
+    <pubDate>Mon, 23 Nov 2026 08:14:49 +0000</pubDate>
+    <category>Business</category>
+    <description>Crowhurst Park Lodges in Battle has been named the Relax &amp; Explore Small Park destination in the South of England at Hoseasons’ 21st annual Diamond Awards.</description>
+  </item>
 </channel>
 </rss>
