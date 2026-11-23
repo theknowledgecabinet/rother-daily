@@ -17,8 +17,10 @@ reporter:
   photo: /assets/reporters/anya-udimore.jpg
 colour: '#6b3fa0'
 places:
-- name: Bexhill
-  slug: bexhill
+- name: Rye
+  slug: rye
+- name: Rother villages
+  slug: rother-villages
 description: Helena Dollimore, the Labour (Co-op) MP for Hastings and Rye, voted in favour of the Visitor Levy (England) Bill Second Reading on Monday 16 November. The bill passed with 296 votes to 96.
 sources:
 - url: https://theknowledgecabinet.github.io/rother-daily/accountability/week/2026-11-21/hastings-and-rye-mp/
