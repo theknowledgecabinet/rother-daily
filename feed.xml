@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Rother Daily</title>
   <link>https://theknowledgecabinet.github.io/rother-daily/</link>
@@ -14,6 +14,9 @@
     <pubDate>Mon, 23 Nov 2026 10:47:52 +0000</pubDate>
     <category>Council</category>
     <description>A licensing panel has approved a Premises Licence for Battle Abbey School Boarding House on Whatlington Road. The licence covers alcohol sales, late night refreshment, and regulated entertainment, primarily for weddings and functions during school holidays. Hours are set from 12:00 to 00:30, Monday to Sunday. A report to the committee notes that eight representations objected to the application, citing concerns about crime, public nuisance, safety, and child protection. The officer recommendation was to determine the application, and the panel approved it.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/6/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Political accountability: East Sussex County Council, week from Sunday 15 November to Saturday 21 November 2026</title>
@@ -22,6 +25,9 @@
     <pubDate>Mon, 23 Nov 2026 10:46:55 +0000</pubDate>
     <category>Council</category>
     <description>East Sussex County Council confirmed decisions on transport and adult social care this week. The Lead Member for Transport and Environment noted decisions made on 20 July 2026 regarding the Pan-Sussex Minerals and Waste Plan Proposal and the Highway Vegetation Management Policy review. The Lead Member for Adult Social Care and Health confirmed decisions on residential and nursing provider payments, the Integrated Health and Wellbeing Service contract, and Disability Related Expenditure.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/5/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Political accountability: MP raises Beckley school PE funding concerns in Commons</title>
@@ -30,6 +36,9 @@
     <pubDate>Mon, 23 Nov 2026 10:41:59 +0000</pubDate>
     <category>Politics</category>
     <description>Dr Kieran Mullan, the Conservative MP for Bexhill and Battle, raised a local issue in the Commons on Monday 16 November. He spoke during Topical Questions about the impact of government reforms on physical education funding at Beckley Church of England primary school. He stated that teachers and parents reported a &quot;massive drop&quot; in provision and asked the Minister to agree to meet him to discuss the situation in Beckley and other schools.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/4/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Political accountability: Dollimore backs Visitor Levy and Immigration Bill in Commons</title>
@@ -38,6 +47,9 @@
     <pubDate>Mon, 23 Nov 2026 10:40:01 +0000</pubDate>
     <category>Politics</category>
     <description>Helena Dollimore, the Labour (Co-op) MP for Hastings and Rye, voted in favour of the Visitor Levy (England) Bill Second Reading on Monday 16 November. The bill passed with 296 votes to 96.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/3/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Bexhill beat Midhurst 5-1 to climb to sixth</title>
@@ -46,6 +58,9 @@
     <pubDate>Mon, 23 Nov 2026 08:16:27 +0000</pubDate>
     <category>Community &amp; people</category>
     <description>Bexhill put five past Midhurst and Easebourne in the latest in a long run of Polegrove fixtures which has seen the Pirates move steadily up the table. The win continues a strong run of form for the Pirates, who have been climbing steadily since September.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/2/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Crowhurst Park Lodges wins Hoseasons guest satisfaction award</title>
@@ -54,6 +69,9 @@
     <pubDate>Mon, 23 Nov 2026 08:14:49 +0000</pubDate>
     <category>Business</category>
     <description>Crowhurst Park Lodges in Battle has been named the Relax &amp; Explore Small Park destination in the South of England at Hoseasons’ 21st annual Diamond Awards.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/1/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>On this day, 1885: Maid of Kent rescue</title>
@@ -62,6 +80,9 @@
     <pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>On 24 November 1885, the Rye lifeboat was called to the aid of the fishing smack Maid of Kent. This incident is recorded in the service history of the station, which operated from Camber Sands for 44 years before closing in 1901. The rescue was part of a long tradition of maritime assistance in the area, following earlier calls to vessels such as the steamship Medea in 1882 and the brigantine Cyrus in 1871.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/onthisday/1/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
 </channel>
 </rss>

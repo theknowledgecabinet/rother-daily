@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Rother Daily: On this day</title>
   <link>https://theknowledgecabinet.github.io/rother-daily/on-this-day/</link>
@@ -14,6 +14,9 @@
     <pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
     <category>On this day</category>
     <description>On 24 November 1885, the Rye lifeboat was called to the aid of the fishing smack Maid of Kent. This incident is recorded in the service history of the station, which operated from Camber Sands for 44 years before closing in 1901. The rescue was part of a long tradition of maritime assistance in the area, following earlier calls to vessels such as the steamship Medea in 1882 and the brigantine Cyrus in 1871.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/onthisday/1/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
 </channel>
 </rss>

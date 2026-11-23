@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Rother Daily: Politics</title>
   <link>https://theknowledgecabinet.github.io/rother-daily/section/politics/</link>
@@ -14,6 +14,9 @@
     <pubDate>Mon, 23 Nov 2026 10:41:59 +0000</pubDate>
     <category>Politics</category>
     <description>Dr Kieran Mullan, the Conservative MP for Bexhill and Battle, raised a local issue in the Commons on Monday 16 November. He spoke during Topical Questions about the impact of government reforms on physical education funding at Beckley Church of England primary school. He stated that teachers and parents reported a &quot;massive drop&quot; in provision and asked the Minister to agree to meet him to discuss the situation in Beckley and other schools.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/4/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
   <item>
     <title>Political accountability: Dollimore backs Visitor Levy and Immigration Bill in Commons</title>
@@ -22,6 +25,9 @@
     <pubDate>Mon, 23 Nov 2026 10:40:01 +0000</pubDate>
     <category>Politics</category>
     <description>Helena Dollimore, the Labour (Co-op) MP for Hastings and Rye, voted in favour of the Visitor Levy (England) Bill Second Reading on Monday 16 November. The bill passed with 296 votes to 96.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/3/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
 </channel>
 </rss>

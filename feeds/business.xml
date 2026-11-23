@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Rother Daily: Business</title>
   <link>https://theknowledgecabinet.github.io/rother-daily/section/business/</link>
@@ -14,6 +14,9 @@
     <pubDate>Mon, 23 Nov 2026 08:14:49 +0000</pubDate>
     <category>Business</category>
     <description>Crowhurst Park Lodges in Battle has been named the Relax &amp; Explore Small Park destination in the South of England at Hoseasons’ 21st annual Diamond Awards.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/1/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
   </item>
 </channel>
 </rss>
