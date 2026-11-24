@@ -67,14 +67,14 @@
    "keypost": false,
    "keyposts": null,
    "service": "Under a year",
-   "expected": 8,
+   "expected": 9,
    "present": 8,
    "apologies": 0,
-   "absent": 0,
+   "absent": 1,
    "other": 12,
    "declarations": 0,
    "votes": 2,
-   "rate": 100,
+   "rate": 89,
    "committees": 6
   },
   {
@@ -1277,13 +1277,13 @@
     {
      "name": "Conservative",
      "councillors": 2,
-     "expected": 33,
+     "expected": 34,
      "present": 32,
      "apologies": 1,
-     "absent": 0,
+     "absent": 1,
      "other": 32,
      "declarations": 2,
-     "rate": 97
+     "rate": 94
     },
     {
      "name": "Independent",
@@ -1309,13 +1309,13 @@
     }
    ],
    "councillors": 9,
-   "expected": 102,
+   "expected": 103,
    "present": 94,
    "apologies": 8,
-   "absent": 0,
+   "absent": 1,
    "other": 61,
    "declarations": 7,
-   "rate": 92
+   "rate": 91
   }
  ],
  "mps": [

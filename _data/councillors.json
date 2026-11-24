@@ -1022,7 +1022,7 @@
    }
   ],
   "ref_raw": "22",
-  "summary": "Kathryn Field is a Liberal Democrat councillor for Battle and Crowhurst on East Sussex County Council, a councillor since January 1992. Their posts: Leader of the Liberal Democrat Group. In the last 12 months they were expected at 27 meetings and attended 24 (89%). The comparable figure is 92% for all East Sussex County Council councillors in this area. They sent apologies for 3 meetings. They also attended 16 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies, chairing Corporate Parenting Panel. They declared an interest at 1 meeting. They took part in 4 named votes, voting the same way as most of their party group in 4."
+  "summary": "Kathryn Field is a Liberal Democrat councillor for Battle and Crowhurst on East Sussex County Council, a councillor since January 1992. Their posts: Leader of the Liberal Democrat Group. In the last 12 months they were expected at 27 meetings and attended 24 (89%). The comparable figure is 91% for all East Sussex County Council councillors in this area. They sent apologies for 3 meetings. They also attended 16 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies, chairing Corporate Parenting Panel. They declared an interest at 1 meeting. They took part in 4 named votes, voting the same way as most of their party group in 4."
  },
  "escc-5298": {
   "name": "Martin Kenward",
@@ -1174,7 +1174,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5298",
   "also": [],
   "ref_raw": "5298",
-  "summary": "Martin Kenward is a Reform UK councillor for Bexhill East on East Sussex County Council, a councillor since May 2026. Their posts: Chairman of the County Council. In the last 12 months they were expected at 3 meetings and attended 3 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sit on 2 committees and bodies, chairing Full Council and Regulatory Committee. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Martin Kenward is a Reform UK councillor for Bexhill East on East Sussex County Council, a councillor since May 2026. Their posts: Chairman of the County Council. In the last 12 months they were expected at 3 meetings and attended 3 (100%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sit on 2 committees and bodies, chairing Full Council and Regulatory Committee. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5294": {
   "name": "Donald Walmsley",
@@ -1187,7 +1187,7 @@
   "since": "2026-05-07",
   "email": "cllr.donald.walmsley@eastsussex.gov.uk",
   "url": "/representatives/east-sussex-county/donald-walmsley/",
-  "attendance_text": "8 of 8 meetings (100%)",
+  "attendance_text": "8 of 9 meetings (89%)",
   "committees": [
    {
     "id": "284",
@@ -1227,16 +1227,16 @@
    }
   ],
   "tally": {
-   "expected": 8,
+   "expected": 9,
    "present": 8,
    "apologies": 0,
-   "absent": 0,
+   "absent": 1,
    "attended": 12,
    "substitute": 0,
    "declarations": 0,
    "votes": 2
   },
-  "rate": 100,
+  "rate": 89,
   "upcoming": [
    {
     "day": "2026-11-26",
@@ -1258,6 +1258,27 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-17",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "absent",
+      "role": "Committee Member",
+      "committee": "County Consultative Committee (Governors)",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=284&MId=7410",
+      "business": [
+       "Academy Update",
+       "Local Authority Governor Appointments and Governor Services Update",
+       "School Resilience Preparedness",
+       "School Organisation Plan",
+       "ESGF Report/Verbal Update for Councillors to include",
+       "Any other items previously notified under agenda item 4"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-06",
     "items": [
@@ -1701,7 +1722,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5294",
   "also": [],
   "ref_raw": "5294",
-  "summary": "Donald Walmsley is a Conservative councillor for Bexhill North on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 8 meetings and attended 8 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 97% for its Conservative councillors here. They also attended 12 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Donald Walmsley is a Conservative councillor for Bexhill North on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 9 meetings and attended 8 (89%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 94% for its Conservative councillors here. They were recorded absent without apologies at 1. They also attended 12 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5310": {
   "name": "Victoria Carson",
@@ -2082,7 +2103,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5310",
   "also": [],
   "ref_raw": "5310",
-  "summary": "Victoria Carson is a Reform UK councillor for Bexhill South on East Sussex County Council, a councillor since May 2026. Their posts: Lead Member for Children and Families. In the last 12 months they were expected at 8 meetings and attended 7 (88%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 5 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Victoria Carson is a Reform UK councillor for Bexhill South on East Sussex County Council, a councillor since May 2026. Their posts: Lead Member for Children and Families. In the last 12 months they were expected at 8 meetings and attended 7 (88%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sent apologies for 1 meeting. They also attended 5 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5307": {
   "name": "Pete Morley",
@@ -2541,7 +2562,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5307",
   "also": [],
   "ref_raw": "5307",
-  "summary": "Pete Morley is a Reform UK councillor for Bexhill West on East Sussex County Council, a councillor since May 2026. Their posts: Deputy Leader of the Council and Lead Member for Economy. In the last 12 months they were expected at 14 meetings and attended 12 (86%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Pete Morley is a Reform UK councillor for Bexhill West on East Sussex County Council, a councillor since May 2026. Their posts: Deputy Leader of the Council and Lead Member for Economy. In the last 12 months they were expected at 14 meetings and attended 12 (86%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5317": {
   "name": "Daniel Lach",
@@ -2807,7 +2828,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5317",
   "also": [],
   "ref_raw": "5317",
-  "summary": "Daniel Lach is a Reform UK councillor for Brede Valley and Marsham on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 6 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Daniel Lach is a Reform UK councillor for Brede Valley and Marsham on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 6 (100%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-2304": {
   "name": "Paul Redstone",
@@ -3896,7 +3917,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=2304",
   "also": [],
   "ref_raw": "2304",
-  "summary": "Paul Redstone is a Conservative councillor for Northern Rother on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Conservative Group. In the last 12 months they were expected at 25 meetings and attended 24 (96%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 97% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 20 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings. They took part in 4 named votes, voting the same way as most of their party group in 4."
+  "summary": "Paul Redstone is a Conservative councillor for Northern Rother on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Conservative Group. In the last 12 months they were expected at 25 meetings and attended 24 (96%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 94% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 20 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings. They took part in 4 named votes, voting the same way as most of their party group in 4."
  },
  "escc-5312": {
   "name": "Mark Ashdown",
@@ -4160,7 +4181,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5312",
   "also": [],
   "ref_raw": "5312",
-  "summary": "Mark Ashdown is a Reform UK councillor for Rother North West on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 5 meetings and attended 5 (100%). The comparable figure is 92% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Mark Ashdown is a Reform UK councillor for Rother North West on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 5 meetings and attended 5 (100%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 92% for its Reform UK councillors here. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5308": {
   "name": "Daniel Bradley",
@@ -4386,7 +4407,7 @@
    }
   ],
   "ref_raw": "5308",
-  "summary": "Daniel Bradley is an Independent councillor for Rye and Eastern Rother on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 92% for all East Sussex County Council councillors in this area. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 1 committee or body. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Daniel Bradley is an Independent councillor for Rye and Eastern Rother on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 91% for all East Sussex County Council councillors in this area. They sent apologies for 1 meeting. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 1 committee or body. They declared an interest at 1 meeting. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "rdc-469": {
   "name": "Christine Bayliss",
