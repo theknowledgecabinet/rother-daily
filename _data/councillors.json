@@ -4461,6 +4461,12 @@
     "time": "6.30 pm",
     "committee": "Cabinet",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=153&MId=1158"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -5189,6 +5195,12 @@
     "time": "6.30 pm",
     "committee": "Cabinet",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=153&MId=1158"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -5787,6 +5799,12 @@
     "time": "6.30 pm",
     "committee": "Cabinet",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=153&MId=1158"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -6318,6 +6336,12 @@
     "time": "6.30 pm",
     "committee": "Cabinet",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=153&MId=1158"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -7095,7 +7119,14 @@
    "votes": 0
   },
   "rate": 82,
-  "upcoming": [],
+  "upcoming": [
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
+   }
+  ],
   "days": [
    {
     "day": "2026-09-21",
@@ -7482,6 +7513,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -8028,6 +8065,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -9381,7 +9424,14 @@
    "votes": 0
   },
   "rate": 92,
-  "upcoming": [],
+  "upcoming": [
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
+   }
+  ],
   "days": [
    {
     "day": "2026-11-16",
@@ -9827,6 +9877,12 @@
     "time": "10.00 am",
     "committee": "Licensing and General Purposes Committee - Taxi and Private Hire Licensing Panel",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=156&MId=1247"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -10572,6 +10628,12 @@
     "time": "6.30 pm",
     "committee": "Cabinet",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=153&MId=1158"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -11347,6 +11409,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -12130,6 +12198,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -12962,7 +13036,14 @@
    "votes": 0
   },
   "rate": 57,
-  "upcoming": [],
+  "upcoming": [
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
+   }
+  ],
   "days": [
    {
     "day": "2026-11-16",
@@ -13231,6 +13312,12 @@
     "time": "6.30 pm",
     "committee": "Audit Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=320&MId=1165"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -13707,6 +13794,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -14442,6 +14535,12 @@
     "time": "6.30 pm",
     "committee": "Cabinet",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=153&MId=1158"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -15046,6 +15145,12 @@
     "time": "6.30 pm",
     "committee": "Audit Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=320&MId=1165"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -15764,7 +15869,14 @@
    "votes": 0
   },
   "rate": 50,
-  "upcoming": [],
+  "upcoming": [
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
+   }
+  ],
   "days": [
    {
     "day": "2026-09-21",
@@ -16156,6 +16268,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -17140,6 +17258,12 @@
     "time": "3.30 pm",
     "committee": "Standards Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=319&MId=1199"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -17545,6 +17669,12 @@
     "time": "6.30 pm",
     "committee": "Cabinet",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=153&MId=1158"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -18228,7 +18358,14 @@
    "votes": 0
   },
   "rate": 83,
-  "upcoming": [],
+  "upcoming": [
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
+   }
+  ],
   "days": [
    {
     "day": "2026-09-21",
@@ -18454,6 +18591,12 @@
     "time": "2.00 pm",
     "committee": "Climate Change Steering Group",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -19110,6 +19253,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -19746,6 +19895,12 @@
     "time": "6.30 pm",
     "committee": "Cabinet",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=153&MId=1158"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -20927,6 +21082,12 @@
     "time": "3.30 pm",
     "committee": "Standards Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=319&MId=1199"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -21553,6 +21714,12 @@
     "time": "3.30 pm",
     "committee": "Standards Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=319&MId=1199"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -22114,6 +22281,12 @@
     "time": "3.30 pm",
     "committee": "Standards Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=319&MId=1199"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -22855,7 +23028,14 @@
    "votes": 0
   },
   "rate": 91,
-  "upcoming": [],
+  "upcoming": [
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
+   }
+  ],
   "days": [
    {
     "day": "2026-09-21",
@@ -23255,6 +23435,12 @@
     "time": "6.30 pm",
     "committee": "Cabinet",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=153&MId=1158"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -23939,6 +24125,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -24513,7 +24705,14 @@
    "votes": 0
   },
   "rate": 100,
-  "upcoming": [],
+  "upcoming": [
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
+   }
+  ],
   "days": [
    {
     "day": "2026-09-21",
@@ -24723,6 +24922,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -25352,7 +25557,14 @@
    "votes": 0
   },
   "rate": 85,
-  "upcoming": [],
+  "upcoming": [
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
+   }
+  ],
   "days": [
    {
     "day": "2026-11-16",
@@ -25818,6 +26030,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -26473,6 +26691,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
@@ -27185,6 +27409,12 @@
     "time": "9.30 am",
     "committee": "Planning Committee",
     "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=135&MId=1192"
+   },
+   {
+    "day": "2026-12-14",
+    "time": "6.30 pm",
+    "committee": "Council",
+    "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1172"
    }
   ],
   "days": [
