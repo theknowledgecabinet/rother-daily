@@ -22,6 +22,28 @@
   "when": "Thu 26 Nov"
  },
  {
+  "starts": "2026-11-27",
+  "ends": "2027-01-04",
+  "title": "St Mary’s Christmas Tree Festival",
+  "time": "9:00am",
+  "venue": "Parish Church of St Mary the Virgin, Rye",
+  "places": "Rye",
+  "url": "https://ryesussex.uk/events/festivals-and-carnivals/rye-christmas-festival/st-marys-christmas-tree-festival/",
+  "summary": "An indoor forest of Christmas trees created by local businesses and societies, with a vote for the favourite tree and prize hampers.",
+  "when": "Fri 27 Nov"
+ },
+ {
+  "starts": "2026-11-27",
+  "ends": null,
+  "title": "HOS Annual Festive Lights & Family Event",
+  "time": "4:30 PM to 7:00 PM",
+  "venue": "Sidley, East Sussex",
+  "places": "Rother villages",
+  "url": "https://allevents.in/bexhill/hos-annual-festive-lights-and-family-event/200031040777839",
+  "summary": "Join outside the New Inn in Sidley to switch on the Festive Lights, then head to Sidley Hub for family fun, free activities, and performances from the All Saints School Choir and Sussex Brass Band.",
+  "when": "Fri 27 Nov"
+ },
+ {
   "starts": "2026-11-28",
   "ends": null,
   "title": "Henry V by William Shakespeare",
@@ -44,6 +66,28 @@
   "when": "Sat 28 Nov"
  },
  {
+  "starts": "2026-11-28",
+  "ends": "2027-01-03",
+  "title": "Christmas at Bodiam Castle 2026",
+  "time": "10am to 3.30pm",
+  "venue": "Bodiam Castle, Bodiam, near Robertsbridge",
+  "places": "Rother villages",
+  "url": "https://riverhaven.co.uk/events/christmas-at-bodiam-castle",
+  "summary": "The National Trust decorates the moated medieval castle with twinkling lights, Christmas trees in the tower rooms and Father Christmas's sleigh in the courtyard.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": "2026-11-29",
+  "title": "Christmas Shopping Weekend",
+  "time": "",
+  "venue": "The De La Warr Pavilion, Bexhill",
+  "places": "Bexhill",
+  "url": "https://www.dlwp.com/event/christmas-shopping-weekend-3/",
+  "summary": "Shop in-store and online for festive cards, wrapping paper, handmade crafts and gift vouchers. Members receive 20% off, while others get 10% off during the weekend.",
+  "when": "Sat 28 Nov"
+ },
+ {
   "starts": "2026-11-29",
   "ends": null,
   "title": "Charles Barnett comic singer songwriter",
@@ -52,6 +96,17 @@
   "places": "Battle",
   "url": "https://allevents.in/bexhill/charles-barnett-comic-singer-songwriter/200030757212833",
   "summary": "Charles Barnett performs a full evening of live music, laughs and feel-good entertainment at The Chapel, featuring classic singalong favourites and original songs.",
+  "when": "Sun 29 Nov"
+ },
+ {
+  "starts": "2026-11-29",
+  "ends": null,
+  "title": "Henry V by William Shakespeare",
+  "time": "3:00pm – 6:00pm",
+  "venue": "The Mermaid Inn, Rye",
+  "places": "Rye",
+  "url": "https://ryesussex.uk/events/festivals-and-carnivals/rye-christmas-festival/henry-v-by-william-shakespeare-4/",
+  "summary": "This theatre production follows King Henry through pivotal years of 1400s England, including the Battle of Agincourt. The performance takes place inside the Tudor Rooms with allocated seating.",
   "when": "Sun 29 Nov"
  }
 ]
