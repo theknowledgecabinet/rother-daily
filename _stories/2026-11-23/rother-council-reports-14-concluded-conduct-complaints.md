@@ -56,6 +56,13 @@ image:
   licence_url: null
   page: ''
   default: false
+related:
+- url: /2026/11/24/council-extends-loan-for-blackfriars-housing-scheme-to-2029/
+  title: Council extends loan for Blackfriars housing scheme to 2029
+  day: '2026-11-24'
+- url: /2026/11/24/severe-weather-emergency-protocol-active-in-rother-until-friday/
+  title: Severe Weather Emergency Protocol active in Rother until Friday
+  day: '2026-11-24'
 ---
 {% raw %}
 Rother District Council’s Standards Committee is due to meet on Tuesday 1 December to review a six-monthly update on councillor conduct.

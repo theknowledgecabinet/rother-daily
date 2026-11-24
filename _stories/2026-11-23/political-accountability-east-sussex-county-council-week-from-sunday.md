@@ -70,6 +70,10 @@ image:
   page: ''
   default: false
 checked: '2026-11-23T10:46:56+00:00'
+related:
+- url: /2026/11/24/county-leader-criticises-government-reorganisation-plan/
+  title: County leader criticises government reorganisation plan
+  day: '2026-11-24'
 series: accountability
 series_label: Political accountability
 series_record: /accountability/week/2026-11-21/east-sussex-county/
