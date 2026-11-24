@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/4860/contact",
   "parliament": "https://members.parliament.uk/member/4860",
   "portrait": "https://members-api.parliament.uk/api/Members/4860/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "21 votes, 7 votes missed, 32 contributions, 6 written questions, 10 answers received",
+  "last30_text": "22 votes, 8 votes missed, 34 contributions, 6 written questions, 10 answers received",
   "synopsis": "Dr Kieran Mullan is the Conservative MP for Bexhill and Battle , and has been an MP continually since 12 December 2019. He currently undertakes the role of Shadow Minister (Justice).",
   "committees": [],
   "government_posts": [],
@@ -34,18 +34,103 @@
     ]
    }
   ],
-  "checked": "2026-11-24T15:24:01+00:00",
+  "checked": "2026-11-24T18:46:48+00:00",
   "last30": {
-   "vote": 21,
-   "speech": 32,
+   "vote": 22,
+   "speech": 34,
    "question": 6,
    "answer": 10,
    "edm": 0,
    "interest": 0,
-   "missed": 7,
+   "missed": 8,
    "against_party": 0
   },
   "days": [
+   {
+    "day": "2026-11-24",
+    "items": [
+     {
+      "kind": "vote",
+      "title": "Armed Forces Bill Lords Amendment 2: Motion to disagree",
+      "url": "https://votes.parliament.uk/votes/commons/division/2494",
+      "line": "Vote: Armed Forces Bill Lords Amendment 2: Motion to disagree: did not vote; passed 299 to 87.",
+      "how": "did not vote",
+      "teller": false,
+      "result": "passed",
+      "ayes": 299,
+      "noes": 87,
+      "against_party": false,
+      "party_side": null,
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     },
+     {
+      "kind": "vote",
+      "title": "Armed Forces Bill: Motion to disagree with Lords Amendments 11 and 25 and to propose amendments to the words so restored to the Bill",
+      "url": "https://votes.parliament.uk/votes/commons/division/2495",
+      "line": "Vote: Armed Forces Bill: Motion to disagree with Lords Amendments 11 and 25 and to propose amendments to the words so restored to the Bill: voted No; passed 296 to 171.",
+      "how": "No",
+      "teller": false,
+      "result": "passed",
+      "ayes": 296,
+      "noes": 171,
+      "against_party": false,
+      "party_side": "No",
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     },
+     {
+      "kind": "speech",
+      "title": "Civil Service Pension Scheme",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-24/debates/B1C4DFB6-F4E7-4972-95CB-E93C63E2ED4B/CivilServicePensionScheme#contribution-A3AB5E90-FCFD-49B9-97E9-F6A9D5954881",
+      "line": "Spoke in \"Civil Service Pension Scheme\" (Commons Chamber): \"Karen Allum and Janette Woolgar are just two of several of my constituents who face several months of delays in their payments. For the sake of all of them, what deadline has the Minister given Capita to get this right and have a reasonable service standard? O\"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "Karen Allum and Janette Woolgar are just two of several of my constituents who face several months of delays in their payments. For the sake of all of them, what deadline has the Minister given Capita to get this right and have a reasonable service standard? On the question of compensation, with such widespread failure affecting so many people, is it reasonable that they will all have to go through additional hurdles? Can the Minister insist on some kind of standardised and easy-to-access compensation for those experiencing such significant delays?",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "Commons Chamber"
+     },
+     {
+      "kind": "speech",
+      "title": "COP31",
+      "url": "https://hansard.parliament.uk/Commons/2026-11-24/debates/963ABEEC-2E39-4E6A-845D-9EF967A445FD/COP31#contribution-8546A13D-97D6-4903-87F7-27A638ECF300",
+      "line": "Spoke in \"COP31\" (Commons Chamber): \"One area where we are most definitely not showing leadership is on deep geothermal. The Secretary of State might remember coming as a Minister to our all-party parliamentary group meeting two years ago, and progress since then has been painfully slow. This wee\"",
+      "how": null,
+      "teller": null,
+      "result": null,
+      "ayes": null,
+      "noes": null,
+      "against_party": null,
+      "party_side": null,
+      "text": "One area where we are most definitely not showing leadership is on deep geothermal. The Secretary of State might remember coming as a Minister to our all-party parliamentary group meeting two years ago, and progress since then has been painfully slow. This week we saw the news that in the latest auction round, zero money has been allocated to deep geothermal electricity projects. Does that not make even stronger the case for a set-aside fund in the new money that the Government have announced from the North sea, so that we can definitely get this industry off the ground?",
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": "Commons Chamber"
+     }
+    ]
+   },
    {
     "day": "2026-11-23",
     "items": [
@@ -2027,7 +2112,7 @@
     ]
    }
   ],
-  "summary": "Dr Kieran Mullan is the Conservative MP for Bexhill and Battle. Of the 28 Commons votes recorded since 3 November 2026, they voted in 21 (75%), always with most Conservative MPs. They spoke 45 times in 11 debates (about 8,844 words); most often in \"Welfare\", \"MOD Bicester and Illegal Migrants\" and \"Topical Questions\". They tabled 11 written questions, most often to the Treasury (4) and the Ministry of Justice (3). On the 19 votes where both the area's MPs voted, Dr Kieran Mullan and Helena Dollimore voted the same way 2 times and opposite ways 17 times."
+  "summary": "Dr Kieran Mullan is the Conservative MP for Bexhill and Battle. Of the 30 Commons votes recorded since 3 November 2026, they voted in 22 (73%), always with most Conservative MPs. They spoke 47 times in 13 debates (about 9,033 words); most often in \"Welfare\", \"MOD Bicester and Illegal Migrants\" and \"Topical Questions\". They tabled 11 written questions, most often to the Treasury (4) and the Ministry of Justice (3). On the 19 votes where both the area's MPs voted, Dr Kieran Mullan and Helena Dollimore voted the same way 2 times and opposite ways 17 times."
  },
  "hastings-and-rye": {
   "slug": "hastings-and-rye",
@@ -2040,7 +2125,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "26 votes, 2 votes missed, 2 contributions, 3 written questions, 6 answers received",
+  "last30_text": "26 votes, 4 votes missed, 2 contributions, 3 written questions, 6 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -2100,7 +2185,7 @@
     ]
    }
   ],
-  "checked": "2026-11-24T15:24:14+00:00",
+  "checked": "2026-11-24T18:46:55+00:00",
   "last30": {
    "vote": 26,
    "speech": 2,
@@ -2108,10 +2193,55 @@
    "answer": 6,
    "edm": 0,
    "interest": 0,
-   "missed": 2,
+   "missed": 4,
    "against_party": 0
   },
   "days": [
+   {
+    "day": "2026-11-24",
+    "items": [
+     {
+      "kind": "vote",
+      "title": "Armed Forces Bill Lords Amendment 2: Motion to disagree",
+      "url": "https://votes.parliament.uk/votes/commons/division/2494",
+      "line": "Vote: Armed Forces Bill Lords Amendment 2: Motion to disagree: did not vote; passed 299 to 87.",
+      "how": "did not vote",
+      "teller": false,
+      "result": "passed",
+      "ayes": 299,
+      "noes": 87,
+      "against_party": false,
+      "party_side": null,
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     },
+     {
+      "kind": "vote",
+      "title": "Armed Forces Bill: Motion to disagree with Lords Amendments 11 and 25 and to propose amendments to the words so restored to the Bill",
+      "url": "https://votes.parliament.uk/votes/commons/division/2495",
+      "line": "Vote: Armed Forces Bill: Motion to disagree with Lords Amendments 11 and 25 and to propose amendments to the words so restored to the Bill: did not vote; passed 296 to 171.",
+      "how": "did not vote",
+      "teller": false,
+      "result": "passed",
+      "ayes": 296,
+      "noes": 171,
+      "against_party": false,
+      "party_side": null,
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     }
+    ]
+   },
    {
     "day": "2026-11-23",
     "items": [
@@ -3088,6 +3218,6 @@
     ]
    }
   ],
-  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 28 Commons votes recorded since 3 November 2026, they voted in 26 (93%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2). On the 19 votes where both the area's MPs voted, Helena Dollimore and Dr Kieran Mullan voted the same way 2 times and opposite ways 17 times."
+  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 30 Commons votes recorded since 3 November 2026, they voted in 26 (87%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2). On the 19 votes where both the area's MPs voted, Helena Dollimore and Dr Kieran Mullan voted the same way 2 times and opposite ways 17 times."
  }
 }
