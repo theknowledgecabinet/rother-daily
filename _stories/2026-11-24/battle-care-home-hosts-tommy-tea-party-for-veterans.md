@@ -25,23 +25,34 @@ sources:
   name: Hastings Observer
 image:
   card:
-    url: /assets/media/abstract/story-13/card.webp
+    url: /assets/media/story/13/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-13/medium.webp
+    url: /assets/media/story/13/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-13/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/13/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-13/share.jpg
-  color: '#714d1e'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/13/share.jpg
+  color: '#807562'
+  alt: Empty lounge table set for tea with bunting
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Tess Iden
+    slug: tess-iden
+    title: Picture editor and illustrator
+    url: /reporters/tess-iden/
+    photo: /assets/reporters/tess-iden.jpg
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-24T07:32:49+00:00'
 ---
 {% raw %}
