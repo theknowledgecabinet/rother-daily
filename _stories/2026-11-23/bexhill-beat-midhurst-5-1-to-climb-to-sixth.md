@@ -56,6 +56,10 @@ image:
   page: ''
   default: false
 checked: '2026-11-23T08:16:28+00:00'
+related:
+- url: /2026/11/24/little-common-come-from-behind-to-beat-pagham-4-1/
+  title: Little Common come from behind to beat Pagham 4-1
+  day: '2026-11-24'
 ---
 {% raw %}
 Bexhill put five past Midhurst and Easebourne in the latest in a long run of Polegrove fixtures which has seen the Pirates move steadily up the table. The win continues a strong run of form for the Pirates, who have been climbing steadily since September.

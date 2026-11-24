@@ -3,7 +3,7 @@
   "name": "Bexhill",
   "slug": "bexhill",
   "url": "/place/bexhill/",
-  "count": 9,
+  "count": 12,
   "own": true
  },
  {
@@ -17,14 +17,14 @@
   "name": "Battle",
   "slug": "battle",
   "url": "/place/battle/",
-  "count": 5,
+  "count": 6,
   "own": true
  },
  {
   "name": "Rother villages",
   "slug": "rother-villages",
   "url": "/place/rother-villages/",
-  "count": 3,
+  "count": 4,
   "own": true
  },
  {
