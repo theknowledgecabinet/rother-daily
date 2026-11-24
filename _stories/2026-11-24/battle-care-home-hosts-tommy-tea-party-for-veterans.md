@@ -38,7 +38,7 @@ image:
     h: 896
   share:
     url: /assets/media/story/13/share.jpg
-  color: '#807562'
+  color: '#857867'
   alt: Empty lounge table set for tea with bunting
   artist: AI-generated illustration
   match: ai
