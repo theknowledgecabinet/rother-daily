@@ -3,7 +3,7 @@
   "name": "Bexhill",
   "slug": "bexhill",
   "url": "/place/bexhill/",
-  "count": 16,
+  "count": 18,
   "own": true
  },
  {
@@ -17,21 +17,21 @@
   "name": "Battle",
   "slug": "battle",
   "url": "/place/battle/",
-  "count": 7,
+  "count": 8,
   "own": true
  },
  {
   "name": "Rother villages",
   "slug": "rother-villages",
   "url": "/place/rother-villages/",
-  "count": 6,
+  "count": 8,
   "own": true
  },
  {
   "name": "East Sussex",
   "slug": "east-sussex",
   "url": "/place/east-sussex/",
-  "count": 5,
+  "count": 8,
   "own": true
  }
 ]

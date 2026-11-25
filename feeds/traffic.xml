@@ -6,7 +6,18 @@
   <atom:link href="https://theknowledgecabinet.github.io/rother-daily/feeds/traffic.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Bexhill, Battle, Rye and the Rother villages, morning and evening.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 23 Nov 2026 19:10:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 19:07:35 +0000</lastBuildDate>
+  <item>
+    <title>A26 Eridge bridge inspected; Burwash wall repaired</title>
+    <link>https://theknowledgecabinet.github.io/rother-daily/2026/11/25/a26-eridge-bridge-inspected-burwash-wall-repaired/</link>
+    <guid isPermaLink="false">story-25</guid>
+    <pubDate>Wed, 25 Nov 2026 19:07:35 +0000</pubDate>
+    <category>Traffic &amp; roadworks</category>
+    <description>East Sussex Highways has completed principal inspections of the A26 bridge over the railway at Eridge. The work required special closures of the railway line, arranged through Network Rail, to allow inspectors to access the structure safely.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/25/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>Bexhill zebra crossing relocated to improve safety</title>
     <link>https://theknowledgecabinet.github.io/rother-daily/2026/11/23/bexhill-zebra-crossing-relocated-to-improve-safety/</link>
