@@ -16,6 +16,8 @@ collections:
     output: true
 exclude:
 - README.md
+plugins:
+- jekyll-sitemap
 profile: rother
 wordmark: Rother
 area_line: Bexhill · Battle · Rye · Rother villages
