@@ -54,6 +54,10 @@ image:
   page: ''
   default: false
 checked: '2026-11-23T08:14:49+00:00'
+related:
+- url: /2026/11/25/battle-campsite-named-uk-s-most-unique-in-2026-awards/
+  title: Battle campsite named UK's most unique in 2026 awards
+  day: '2026-11-25'
 ---
 {% raw %}
 Crowhurst Park Lodges in Battle has been named the Relax & Explore Small Park destination in the South of England at Hoseasons’ 21st annual Diamond Awards.

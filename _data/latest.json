@@ -1,8 +1,8 @@
 {
- "day": "2026-11-24",
- "label": "Tuesday 24 November 2026",
- "issue": 2,
- "edition_label": "Evening edition",
+ "day": "2026-11-25",
+ "label": "Wednesday 25 November 2026",
+ "issue": 3,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-25",
@@ -50,40 +50,20 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-24",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 7,
-    "low": 5,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 24,
-    "direction": "south-easterly",
-    "sunrise": "07:28",
-    "sunset": "16:00",
-    "summary": "Cloudy. A high of 7°C and a low of 5°C, a moderate breeze from the south-east. Sunrise 07:28, sunset 16:00."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-25",
     "code": 3,
     "words": "cloudy",
     "icon": "☁️",
-    "high": 7,
-    "low": 3,
-    "rain_chance": 6,
+    "high": 6,
+    "low": 2,
+    "rain_chance": 0,
     "rain_mm": 0.0,
     "wind": 12,
     "gusts": 24,
     "direction": "north-easterly",
     "sunrise": "07:29",
     "sunset": "16:00",
-    "summary": "Cloudy. A high of 7°C and a low of 3°C, a moderate breeze from the north east. Sunrise 07:29, sunset 16:00."
+    "summary": "Cloudy. A high of 6°C and a low of 2°C, a moderate breeze from the north east. Sunrise 07:29, sunset 16:00."
    }
   }
  ],
@@ -92,16 +72,16 @@
   "code": 3,
   "words": "cloudy",
   "icon": "☁️",
-  "high": 7,
-  "low": 3,
-  "rain_chance": 6,
+  "high": 6,
+  "low": 2,
+  "rain_chance": 0,
   "rain_mm": 0.0,
   "wind": 12,
   "gusts": 24,
   "direction": "north-easterly",
   "sunrise": "07:29",
   "sunset": "16:00",
-  "summary": "Cloudy. A high of 7°C and a low of 3°C, a moderate breeze from the north east. Sunrise 07:29, sunset 16:00."
+  "summary": "Cloudy. A high of 6°C and a low of 2°C, a moderate breeze from the north east. Sunrise 07:29, sunset 16:00."
  },
  "briefing": {
   "day": "2026-11-24",
@@ -117,12 +97,17 @@
   "thumb": "/assets/video/2026-11-24.jpg"
  },
  "otd": {
-  "day": "2026-11-23",
-  "url": "/on-this-day/2026-11-23/",
-  "year": 1885,
-  "title": "Maid of Kent rescue"
+  "day": "2026-11-25",
+  "url": "/on-this-day/2026-11-25/",
+  "year": 1833,
+  "title": "The cricketing priest who played for Cambridge in 1855"
  },
  "days": [
+  {
+   "day": "2026-11-25",
+   "url": "/2026/11/25/",
+   "label": "Wed 25 Nov"
+  },
   {
    "day": "2026-11-24",
    "url": "/2026/11/24/",
