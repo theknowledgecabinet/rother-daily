@@ -11,7 +11,7 @@
    "icon": "☁️",
    "high": 6,
    "low": 3,
-   "rain_chance": 0,
+   "rain_chance": 2,
    "rain_mm": 0.0,
    "wind": 12,
    "gusts": 24,
