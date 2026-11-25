@@ -10,7 +10,7 @@
   "contact": "https://members.parliament.uk/member/4860/contact",
   "parliament": "https://members.parliament.uk/member/4860",
   "portrait": "https://members-api.parliament.uk/api/Members/4860/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "24 votes, 8 votes missed, 34 contributions, 6 written questions, 10 answers received",
+  "last30_text": "25 votes, 8 votes missed, 34 contributions, 6 written questions, 10 answers received",
   "synopsis": "Dr Kieran Mullan is the Conservative MP for Bexhill and Battle , and has been an MP continually since 12 December 2019. He currently undertakes the role of Shadow Minister (Justice).",
   "committees": [],
   "government_posts": [],
@@ -34,9 +34,9 @@
     ]
    }
   ],
-  "checked": "2026-11-25T17:02:28+00:00",
+  "checked": "2026-11-25T20:37:28+00:00",
   "last30": {
-   "vote": 24,
+   "vote": 25,
    "speech": 34,
    "question": 6,
    "answer": 10,
@@ -46,6 +46,31 @@
    "against_party": 0
   },
   "days": [
+   {
+    "day": "2026-11-25",
+    "items": [
+     {
+      "kind": "vote",
+      "title": "Opposition day: Restoration and renewal of the Palace of Westminster",
+      "url": "https://votes.parliament.uk/votes/commons/division/2498",
+      "line": "Vote: Opposition day: Restoration and renewal of the Palace of Westminster: voted Aye; defeated 102 to 291.",
+      "how": "Aye",
+      "teller": false,
+      "result": "defeated",
+      "ayes": 102,
+      "noes": 291,
+      "against_party": false,
+      "party_side": "Aye",
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     }
+    ]
+   },
    {
     "day": "2026-11-24",
     "items": [
@@ -2152,7 +2177,7 @@
     ]
    }
   ],
-  "summary": "Dr Kieran Mullan is the Conservative MP for Bexhill and Battle. Of the 32 Commons votes recorded since 3 November 2026, they voted in 24 (75%), always with most Conservative MPs. They spoke 47 times in 13 debates (about 9,033 words); most often in \"Welfare\", \"MOD Bicester and Illegal Migrants\" and \"Topical Questions\". They tabled 11 written questions, most often to the Treasury (4) and the Ministry of Justice (3). On the 19 votes where both the area's MPs voted, Dr Kieran Mullan and Helena Dollimore voted the same way 2 times and opposite ways 17 times."
+  "summary": "Dr Kieran Mullan is the Conservative MP for Bexhill and Battle. Of the 33 Commons votes recorded since 3 November 2026, they voted in 25 (76%), always with most Conservative MPs. They spoke 47 times in 13 debates (about 9,033 words); most often in \"Welfare\", \"MOD Bicester and Illegal Migrants\" and \"Topical Questions\". They tabled 11 written questions, most often to the Treasury (4) and the Ministry of Justice (3). On the 20 votes where both the area's MPs voted, Dr Kieran Mullan and Helena Dollimore voted the same way 2 times and opposite ways 18 times."
  },
  "hastings-and-rye": {
   "slug": "hastings-and-rye",
@@ -2165,7 +2190,7 @@
   "contact": "https://members.parliament.uk/member/5192/contact",
   "parliament": "https://members.parliament.uk/member/5192",
   "portrait": "https://members-api.parliament.uk/api/Members/5192/Portrait?cropType=OneOne&webVersion=true",
-  "last30_text": "26 votes, 6 votes missed, 2 contributions, 3 written questions, 6 answers received",
+  "last30_text": "27 votes, 6 votes missed, 2 contributions, 3 written questions, 6 answers received",
   "synopsis": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye , and has been an MP continually since 4 July 2024.",
   "committees": [
    {
@@ -2230,9 +2255,9 @@
     ]
    }
   ],
-  "checked": "2026-11-25T17:02:31+00:00",
+  "checked": "2026-11-25T20:37:32+00:00",
   "last30": {
-   "vote": 26,
+   "vote": 27,
    "speech": 2,
    "question": 3,
    "answer": 6,
@@ -2242,6 +2267,31 @@
    "against_party": 0
   },
   "days": [
+   {
+    "day": "2026-11-25",
+    "items": [
+     {
+      "kind": "vote",
+      "title": "Opposition day: Restoration and renewal of the Palace of Westminster",
+      "url": "https://votes.parliament.uk/votes/commons/division/2498",
+      "line": "Vote: Opposition day: Restoration and renewal of the Palace of Westminster: voted No; defeated 102 to 291.",
+      "how": "No",
+      "teller": false,
+      "result": "defeated",
+      "ayes": 102,
+      "noes": 291,
+      "against_party": false,
+      "party_side": "No",
+      "text": null,
+      "question": null,
+      "by": null,
+      "tabled": null,
+      "category": null,
+      "supporters": null,
+      "where": null
+     }
+    ]
+   },
    {
     "day": "2026-11-24",
     "items": [
@@ -3303,6 +3353,6 @@
     ]
    }
   ],
-  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 32 Commons votes recorded since 3 November 2026, they voted in 26 (81%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2). On the 19 votes where both the area's MPs voted, Helena Dollimore and Dr Kieran Mullan voted the same way 2 times and opposite ways 17 times."
+  "summary": "Helena Dollimore is the Labour (Co-op) MP for Hastings and Rye. Of the 33 Commons votes recorded since 3 November 2026, they voted in 27 (82%), always with most Labour (Co-op) MPs. They spoke 5 times in 4 debates (about 676 words); most often in \"Business of the House\", \"International Update\" and \"Strengthening Community Resilience\". They tabled 6 written questions, most often to the Department for Digital, Culture, Media and Sport (3) and the Department for Environment, Food and Rural Affairs (2). On the 20 votes where both the area's MPs voted, Helena Dollimore and Dr Kieran Mullan voted the same way 2 times and opposite ways 18 times."
  }
 }
