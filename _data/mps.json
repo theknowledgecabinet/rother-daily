@@ -34,7 +34,7 @@
     ]
    }
   ],
-  "checked": "2026-11-25T07:23:26+00:00",
+  "checked": "2026-11-25T10:39:43+00:00",
   "last30": {
    "vote": 24,
    "speech": 34,
@@ -2182,6 +2182,11 @@
     "name": "Statutory Instruments (Select Committee)",
     "since": "2025-06-02",
     "info": null
+   },
+   {
+    "name": "National Policy Statement for Data Centres Committee",
+    "since": "2026-11-11",
+    "info": null
    }
   ],
   "government_posts": [],
@@ -2225,7 +2230,7 @@
     ]
    }
   ],
-  "checked": "2026-11-25T07:23:30+00:00",
+  "checked": "2026-11-25T10:39:46+00:00",
   "last30": {
    "vote": 26,
    "speech": 2,
