@@ -1,8 +1,8 @@
 {
- "day": "2026-11-25",
- "label": "Wednesday 25 November 2026",
- "issue": 3,
- "edition_label": "Evening edition",
+ "day": "2026-11-26",
+ "label": "Thursday 26 November 2026",
+ "issue": 4,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-26",
@@ -50,58 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-25",
+    "day": "2026-11-26",
     "code": 3,
     "words": "cloudy",
     "icon": "☁️",
-    "high": 6,
-    "low": 2,
-    "rain_chance": 0,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 24,
-    "direction": "north-easterly",
-    "sunrise": "07:29",
-    "sunset": "16:00",
-    "summary": "Cloudy. A high of 6°C and a low of 2°C, a moderate breeze from the north east. Sunrise 07:29, sunset 16:00."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
-    "day": "2026-11-26",
-    "code": 51,
-    "words": "light drizzle",
-    "icon": "🌦️",
     "high": 5,
-    "low": 0,
-    "rain_chance": 0,
-    "rain_mm": 0.1,
-    "wind": 11,
-    "gusts": 22,
+    "low": 2,
+    "rain_chance": 2,
+    "rain_mm": 0.0,
+    "wind": 10,
+    "gusts": 21,
     "direction": "north-easterly",
     "sunrise": "07:31",
     "sunset": "15:59",
-    "summary": "Light drizzle possible (0% chance). A high of 5°C and a low of 0°C, a moderate breeze from the north east. Sunrise 07:31, sunset 15:59."
+    "summary": "Cloudy. A high of 5°C and a low of 2°C, a moderate breeze from the north east. Sunrise 07:31, sunset 15:59."
    }
   }
  ],
  "weather": {
   "day": "2026-11-26",
-  "code": 51,
-  "words": "light drizzle",
-  "icon": "🌦️",
+  "code": 3,
+  "words": "cloudy",
+  "icon": "☁️",
   "high": 5,
-  "low": 0,
-  "rain_chance": 0,
-  "rain_mm": 0.1,
-  "wind": 11,
-  "gusts": 22,
+  "low": 2,
+  "rain_chance": 2,
+  "rain_mm": 0.0,
+  "wind": 10,
+  "gusts": 21,
   "direction": "north-easterly",
   "sunrise": "07:31",
   "sunset": "15:59",
-  "summary": "Light drizzle possible (0% chance). A high of 5°C and a low of 0°C, a moderate breeze from the north east. Sunrise 07:31, sunset 15:59."
+  "summary": "Cloudy. A high of 5°C and a low of 2°C, a moderate breeze from the north east. Sunrise 07:31, sunset 15:59."
  },
  "briefing": {
   "day": "2026-11-25",
@@ -117,12 +97,17 @@
   "thumb": "/assets/video/2026-11-25.jpg"
  },
  "otd": {
-  "day": "2026-11-25",
-  "url": "/on-this-day/2026-11-25/",
-  "year": 1833,
-  "title": "The cricketing priest who played for Cambridge in 1855"
+  "day": "2026-11-26",
+  "url": "/on-this-day/2026-11-26/",
+  "year": 1947,
+  "title": "Charles Tippet collapses at Rye Golf Club"
  },
  "days": [
+  {
+   "day": "2026-11-26",
+   "url": "/2026/11/26/",
+   "label": "Thu 26 Nov"
+  },
   {
    "day": "2026-11-25",
    "url": "/2026/11/25/",

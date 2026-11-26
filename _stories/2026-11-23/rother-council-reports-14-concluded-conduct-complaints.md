@@ -57,6 +57,9 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/26/rother-council-forecasts-668-000-revenue-surplus/
+  title: Rother council forecasts £668,000 revenue surplus
+  day: '2026-11-26'
 - url: /2026/11/24/council-extends-loan-for-blackfriars-housing-scheme-to-2029/
   title: Council extends loan for Blackfriars housing scheme to 2029
   day: '2026-11-24'
