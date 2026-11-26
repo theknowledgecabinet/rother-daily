@@ -947,7 +947,7 @@
    "apologies": 3,
    "absent": 0,
    "other": 5,
-   "declarations": 12,
+   "declarations": 13,
    "votes": 0,
    "rate": 85,
    "committees": 5
@@ -1202,7 +1202,7 @@
      "apologies": 25,
      "absent": 1,
      "other": 58,
-     "declarations": 43,
+     "declarations": 44,
      "rate": 83
     },
     {
@@ -1256,7 +1256,7 @@
    "apologies": 84,
    "absent": 9,
    "other": 155,
-   "declarations": 106,
+   "declarations": 107,
    "rate": 86
   },
   {

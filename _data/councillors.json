@@ -89,7 +89,7 @@
       "how": "apologies",
       "role": "Committee Member",
       "committee": "SBSA - Overview and Scrutiny Committee",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=658&MId=7197",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=658&MId=7197&Ver=4",
       "business": [
        "The draft Prosperity Strategy: pre-decision scrutiny before the Board decides to consult",
        "The Fire and Rescue transition: the programme, the legislation, the budget and precept arrangements, and the Committee's role",
@@ -6379,13 +6379,15 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -9450,13 +9452,15 @@
       "how": "apologies",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -11435,13 +11439,15 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -12224,13 +12230,15 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -13062,13 +13070,15 @@
       "how": "apologies",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -15144,7 +15154,7 @@
    "absent": 0,
    "attended": 5,
    "substitute": 0,
-   "declarations": 12,
+   "declarations": 13,
    "votes": 0
   },
   "rate": 85,
@@ -15188,13 +15198,21 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
+     },
+     {
+      "kind": "declaration",
+      "committee": "Overview and Scrutiny Committee",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
+      "text": "Thomas Agenda Item 6 – Non Registerable Interest as Vice Chair of Bexhill in Bloom."
      }
     ]
    },
@@ -15833,7 +15851,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=481",
   "also": [],
   "ref_raw": "481",
-  "summary": "Richard Thomas is a Liberal Democrat councillor for Bexhill St Stephens on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 17 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 3 meetings. They also attended 5 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 12 meetings."
+  "summary": "Richard Thomas is a Liberal Democrat councillor for Bexhill St Stephens on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 17 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 3 meetings. They also attended 5 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 13 meetings."
  },
  "rdc-1850": {
   "name": "Neil Gordon",
@@ -16311,13 +16329,15 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -18622,13 +18642,15 @@
       "how": "present",
       "role": "Chair",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -19267,13 +19289,15 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -19920,13 +19944,15 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -21090,13 +21116,15 @@
       "how": "apologies",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -21716,13 +21744,15 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -25559,13 +25589,15 @@
       "how": "present",
       "role": "Committee Member",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -26026,13 +26058,15 @@
       "how": "present",
       "role": "Vice-Chair",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
@@ -26687,13 +26721,15 @@
       "how": "attended",
       "role": "Guest",
       "committee": "Overview and Scrutiny Committee",
-      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=154&MId=1183&Ver=4",
       "business": [
        "Performance Report: Second Quarter 2026/27",
        "Budget Monitoring 2026/27, Revenue, Capital & Savings Targets Monitoring - Quarter 2 (Period 5) Update",
        "Housing Development Strategy Update"
       ],
-      "decided": []
+      "decided": [
+       "Housing Development Strategy Update"
+      ]
      }
     ]
    },
