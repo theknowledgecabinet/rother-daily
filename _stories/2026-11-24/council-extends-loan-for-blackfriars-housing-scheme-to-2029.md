@@ -55,6 +55,9 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/26/bexhill-councillors-debate-high-street-rental-auction-plans/
+  title: Bexhill councillors debate High Street Rental Auction plans
+  day: '2026-11-26'
 - url: /2026/11/23/rother-council-reports-14-concluded-conduct-complaints/
   title: Rother council reports 14 concluded conduct complaints
   day: '2026-11-23'

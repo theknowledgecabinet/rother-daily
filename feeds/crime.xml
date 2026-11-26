@@ -6,7 +6,18 @@
   <atom:link href="https://theknowledgecabinet.github.io/rother-daily/feeds/crime.xml" rel="self" type="application/rss+xml"/>
   <description>Local news for Bexhill, Battle, Rye and the Rother villages, morning and evening.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 25 Nov 2026 19:07:24 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 19:09:22 +0000</lastBuildDate>
+  <item>
+    <title>Catsfield crash: Two children leave hospital</title>
+    <link>https://theknowledgecabinet.github.io/rother-daily/2026/11/26/catsfield-crash-two-children-leave-hospital/</link>
+    <guid isPermaLink="false">story-34</guid>
+    <pubDate>Thu, 26 Nov 2026 19:09:22 +0000</pubDate>
+    <category>Crime &amp; courts</category>
+    <description>Two children, aged six and three, have been released from hospital after being struck by a car in Catsfield, Sussex Police said.</description>
+    <media:content url="https://theknowledgecabinet.github.io/rother-daily/assets/media/story/34/share.jpg" medium="image" type="image/jpeg" width="1200" height="630">
+      <media:credit role="illustrator">AI-generated illustration</media:credit>
+    </media:content>
+  </item>
   <item>
     <title>Man arrested after car hits three people in Catsfield</title>
     <link>https://theknowledgecabinet.github.io/rother-daily/2026/11/25/man-arrested-after-car-hits-three-people-in-catsfield/</link>
