@@ -1187,7 +1187,7 @@
   "since": "2026-05-07",
   "email": "cllr.donald.walmsley@eastsussex.gov.uk",
   "url": "/representatives/east-sussex-county/donald-walmsley/",
-  "attendance_text": "8 of 9 meetings (89%)",
+  "attendance_text": "9 of 10 meetings (90%)",
   "committees": [
    {
     "id": "284",
@@ -1227,8 +1227,8 @@
    }
   ],
   "tally": {
-   "expected": 9,
-   "present": 8,
+   "expected": 10,
+   "present": 9,
    "apologies": 0,
    "absent": 1,
    "attended": 12,
@@ -1236,7 +1236,7 @@
    "declarations": 0,
    "votes": 2
   },
-  "rate": 89,
+  "rate": 90,
   "upcoming": [
    {
     "day": "2026-11-30",
@@ -1252,6 +1252,29 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "present",
+      "role": "Committee Member",
+      "committee": "Pension Committee",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=373&MId=6841",
+      "business": [
+       "Pension Board Minutes",
+       "Pension Reform Agenda",
+       "Local Government Pension Scheme (LGPS) Governance - Officer Roles and Delegations",
+       "Governance Report",
+       "Pension Administration - updates",
+       "Communications Report",
+       "East Sussex Pension Fund Quarterly Budget Report",
+       "Annual Report and Accounts 2025/26"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-17",
     "items": [
@@ -1716,7 +1739,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=5294",
   "also": [],
   "ref_raw": "5294",
-  "summary": "Donald Walmsley is a Conservative councillor for Bexhill North on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 9 meetings and attended 8 (89%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 94% for its Conservative councillors here. They were recorded absent without apologies at 1. They also attended 12 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
+  "summary": "Donald Walmsley is a Conservative councillor for Bexhill North on East Sussex County Council, a councillor since May 2026. In the last 12 months they were expected at 10 meetings and attended 9 (90%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 94% for its Conservative councillors here. They were recorded absent without apologies at 1. They also attended 12 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They took part in 2 named votes, voting the same way as most of their party group in 2."
  },
  "escc-5310": {
   "name": "Victoria Carson",
@@ -2835,7 +2858,7 @@
   "since": "2021-05-06",
   "email": "cllr.paul.redstone@eastsussex.gov.uk",
   "url": "/representatives/east-sussex-county/paul-redstone/",
-  "attendance_text": "24 of 25 meetings (96%)",
+  "attendance_text": "25 of 26 meetings (96%)",
   "committees": [
    {
     "id": "285",
@@ -2875,8 +2898,8 @@
    }
   ],
   "tally": {
-   "expected": 25,
-   "present": 24,
+   "expected": 26,
+   "present": 25,
    "apologies": 1,
    "absent": 0,
    "attended": 20,
@@ -2906,6 +2929,29 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "present",
+      "role": "Committee Member",
+      "committee": "Pension Committee",
+      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=373&MId=6841",
+      "business": [
+       "Pension Board Minutes",
+       "Pension Reform Agenda",
+       "Local Government Pension Scheme (LGPS) Governance - Officer Roles and Delegations",
+       "Governance Report",
+       "Pension Administration - updates",
+       "Communications Report",
+       "East Sussex Pension Fund Quarterly Budget Report",
+       "Annual Report and Accounts 2025/26"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-06",
     "items": [
@@ -3905,7 +3951,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=2304",
   "also": [],
   "ref_raw": "2304",
-  "summary": "Paul Redstone is a Conservative councillor for Northern Rother on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Conservative Group. In the last 12 months they were expected at 25 meetings and attended 24 (96%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 94% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 20 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings. They took part in 4 named votes, voting the same way as most of their party group in 4."
+  "summary": "Paul Redstone is a Conservative councillor for Northern Rother on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Conservative Group. In the last 12 months they were expected at 26 meetings and attended 25 (96%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 94% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 20 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings. They took part in 4 named votes, voting the same way as most of their party group in 4."
  },
  "escc-5312": {
   "name": "Mark Ashdown",
@@ -8540,7 +8586,7 @@
   "since": "2023-05-09",
   "email": "cllr.polly.gray@rother.gov.uk",
   "url": "/representatives/rother-district/polly-gray/",
-  "attendance_text": "29 of 29 meetings (100%)",
+  "attendance_text": "30 of 30 meetings (100%)",
   "committees": [
    {
     "id": "259",
@@ -8610,8 +8656,8 @@
    }
   ],
   "tally": {
-   "expected": 29,
-   "present": 29,
+   "expected": 30,
+   "present": 30,
    "apologies": 0,
    "absent": 0,
    "attended": 1,
@@ -8659,6 +8705,25 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "present",
+      "role": "Committee Member",
+      "committee": "Climate Change Steering Group",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217",
+      "business": [
+       "2024 Rother District-wide Emissions",
+       "Organisational Greenhouse Gas Emissions 2025/26",
+       "East Sussex Housing Retrofit Strategy",
+       "Climate Action Plan Progress - Buildings & Energy Efficiency - November 2026"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-16",
     "items": [
@@ -9402,7 +9467,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=475",
   "also": [],
   "ref_raw": "475",
-  "summary": "Polly Gray is a Green Party councillor for Bexhill Old Town & Worsham on Rother District Council, a councillor since May 2023. Their posts: Green Group Leader. In the last 12 months they were expected at 29 meetings and attended 29 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 98% for its Green Party councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 11 committees and bodies. They declared an interest at 2 meetings."
+  "summary": "Polly Gray is a Green Party councillor for Bexhill Old Town & Worsham on Rother District Council, a councillor since May 2023. Their posts: Green Group Leader. In the last 12 months they were expected at 30 meetings and attended 30 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 98% for its Green Party councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 11 committees and bodies. They declared an interest at 2 meetings."
  },
  "rdc-130": {
   "name": "Charles Clark",
@@ -13750,7 +13815,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1778",
   "also": [],
   "ref_raw": "1778",
-  "summary": "Connor Winter is a Conservative councillor for Bexhill St Marks on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 14 meetings and attended 7 (50%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 6 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 1 meeting."
+  "summary": "Connor Winter is a Conservative councillor for Bexhill St Marks on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 14 meetings and attended 7 (50%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 6 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 1 meeting."
  },
  "rdc-1756": {
   "name": "Jimmy Stanger",
@@ -14497,7 +14562,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1756",
   "also": [],
   "ref_raw": "1756",
-  "summary": "Jimmy Stanger is a Conservative councillor for Bexhill St Marks on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 19 meetings and attended 16 (84%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 3 meetings. They also attended 8 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies, chairing Licensing and General Purposes Committee."
+  "summary": "Jimmy Stanger is a Conservative councillor for Bexhill St Marks on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 19 meetings and attended 16 (84%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 3 meetings. They also attended 8 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies, chairing Licensing and General Purposes Committee."
  },
  "rdc-1972": {
   "name": "Arren Rathbone Ariel",
@@ -15857,7 +15922,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=481",
   "also": [],
   "ref_raw": "481",
-  "summary": "Richard Thomas is a Liberal Democrat councillor for Bexhill St Stephens on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 17 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 3 meetings. They also attended 5 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 13 meetings."
+  "summary": "Richard Thomas is a Liberal Democrat councillor for Bexhill St Stephens on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 17 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 84% for its Liberal Democrats councillors here. They sent apologies for 3 meetings. They also attended 5 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 13 meetings."
  },
  "rdc-1850": {
   "name": "Neil Gordon",
@@ -16226,7 +16291,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1850",
   "also": [],
   "ref_raw": "1850",
-  "summary": "Neil Gordon is a Conservative councillor for Brede & Udimore on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 10 meetings and attended 5 (50%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 4 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
+  "summary": "Neil Gordon is a Conservative councillor for Brede & Udimore on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 10 meetings and attended 5 (50%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 4 meetings and were recorded absent without apologies at 1. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
  },
  "rdc-116": {
   "name": "John Barnes (MBE)",
@@ -17224,7 +17289,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=116",
   "also": [],
   "ref_raw": "116",
-  "summary": "John Barnes (MBE) is a Conservative councillor for Burwash & the Weald on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 20 (95%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 16 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies, chairing Audit Committee. They declared an interest at 3 meetings."
+  "summary": "John Barnes (MBE) is a Conservative councillor for Burwash & the Weald on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 20 (95%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 16 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies, chairing Audit Committee. They declared an interest at 3 meetings."
  },
  "rdc-134": {
   "name": "Mrs Eleanor Kirby-Green",
@@ -17635,7 +17700,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=134",
   "also": [],
   "ref_raw": "134",
-  "summary": "Mrs Eleanor Kirby-Green is a Conservative councillor for Burwash & the Weald on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 12 meetings and attended 12 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 1 meeting."
+  "summary": "Mrs Eleanor Kirby-Green is a Conservative councillor for Burwash & the Weald on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 12 meetings and attended 12 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 1 meeting."
  },
  "rdc-2227": {
   "name": "Nicola McLaren",
@@ -17648,7 +17713,7 @@
   "since": "2025-06-26",
   "email": "cllr.nicola.mclaren@rother.gov.uk",
   "url": "/representatives/rother-district/nicola-mclaren/",
-  "attendance_text": "19 of 21 meetings (90%)",
+  "attendance_text": "20 of 22 meetings (91%)",
   "committees": [
    {
     "id": "153",
@@ -17682,8 +17747,8 @@
    }
   ],
   "tally": {
-   "expected": 21,
-   "present": 19,
+   "expected": 22,
+   "present": 20,
    "apologies": 2,
    "absent": 0,
    "attended": 4,
@@ -17691,7 +17756,7 @@
    "declarations": 6,
    "votes": 0
   },
-  "rate": 90,
+  "rate": 91,
   "upcoming": [
    {
     "day": "2026-12-07",
@@ -17707,6 +17772,25 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "present",
+      "role": "Chair",
+      "committee": "Climate Change Steering Group",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217",
+      "business": [
+       "2024 Rother District-wide Emissions",
+       "Organisational Greenhouse Gas Emissions 2025/26",
+       "East Sussex Housing Retrofit Strategy",
+       "Climate Action Plan Progress - Buildings & Energy Efficiency - November 2026"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-18",
     "items": [
@@ -18354,7 +18438,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=2227",
   "also": [],
   "ref_raw": "2227",
-  "summary": "Nicola McLaren is a Liberal Democrat councillor for Catsfield & Crowhurst on Rother District Council, a councillor since June 2025. In the last 12 months they were expected at 21 meetings and attended 19 (90%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies, chairing Climate Change Steering Group. They declared an interest at 6 meetings."
+  "summary": "Nicola McLaren is a Liberal Democrat councillor for Catsfield & Crowhurst on Rother District Council, a councillor since June 2025. In the last 12 months they were expected at 22 meetings and attended 20 (91%). The comparable figure is 86% for all Rother District Council councillors in this area and 84% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies, chairing Climate Change Steering Group. They declared an interest at 6 meetings."
  },
  "rdc-654": {
   "name": "Lizzie Hacking",
@@ -18569,7 +18653,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=654",
   "also": [],
   "ref_raw": "654",
-  "summary": "Lizzie Hacking is a Conservative councillor for Eastern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 1 meeting. They sit on 1 committee or body. They declared an interest at 1 meeting."
+  "summary": "Lizzie Hacking is a Conservative councillor for Eastern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 6 meetings and attended 5 (83%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 1 meeting. They sit on 1 committee or body. They declared an interest at 1 meeting."
  },
  "rdc-145": {
   "name": "Paul Osborne",
@@ -18582,7 +18666,7 @@
   "since": "2023-05-09",
   "email": "cllr.paul.osborne@rother.gov.uk",
   "url": "/representatives/rother-district/paul-osborne/",
-  "attendance_text": "14 of 14 meetings (100%)",
+  "attendance_text": "14 of 15 meetings (93%)",
   "committees": [
    {
     "id": "250",
@@ -18604,16 +18688,16 @@
    }
   ],
   "tally": {
-   "expected": 14,
+   "expected": 15,
    "present": 14,
-   "apologies": 0,
+   "apologies": 1,
    "absent": 0,
    "attended": 10,
    "substitute": 0,
    "declarations": 2,
    "votes": 0
   },
-  "rate": 100,
+  "rate": 93,
   "upcoming": [
    {
     "day": "2026-12-14",
@@ -18623,6 +18707,25 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "apologies",
+      "role": "Committee Member",
+      "committee": "Climate Change Steering Group",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217",
+      "business": [
+       "2024 Rother District-wide Emissions",
+       "Organisational Greenhouse Gas Emissions 2025/26",
+       "East Sussex Housing Retrofit Strategy",
+       "Climate Action Plan Progress - Buildings & Energy Efficiency - November 2026"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-18",
     "items": [
@@ -19221,7 +19324,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=145",
   "also": [],
   "ref_raw": "145",
-  "summary": "Paul Osborne is a Conservative councillor for Eastern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 14 meetings and attended 14 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They also attended 10 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Overview and Scrutiny Committee. They declared an interest at 2 meetings."
+  "summary": "Paul Osborne is a Conservative councillor for Eastern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 15 meetings and attended 14 (93%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 10 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies, chairing Overview and Scrutiny Committee. They declared an interest at 2 meetings."
  },
  "rdc-113": {
   "name": "Mrs Mary Barnes",
@@ -19841,7 +19944,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=113",
   "also": [],
   "ref_raw": "113",
-  "summary": "Mrs Mary Barnes is a Conservative councillor for Hurst Green & Ticehurst on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 23 meetings and attended 22 (96%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 1 meeting. They sit on 4 committees and bodies."
+  "summary": "Mrs Mary Barnes is a Conservative councillor for Hurst Green & Ticehurst on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 23 meetings and attended 22 (96%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 1 meeting. They sit on 4 committees and bodies."
  },
  "rdc-1979": {
   "name": "Teresa Killeen (MBE)",
@@ -19854,7 +19957,7 @@
   "since": "2023-05-09",
   "email": "Cllr.Teresa.Killeen@rother.gov.uk",
   "url": "/representatives/rother-district/teresa-killeen/",
-  "attendance_text": "25 of 27 meetings (93%)",
+  "attendance_text": "26 of 28 meetings (93%)",
   "committees": [
    {
     "id": "153",
@@ -19894,8 +19997,8 @@
    }
   ],
   "tally": {
-   "expected": 27,
-   "present": 25,
+   "expected": 28,
+   "present": 26,
    "apologies": 2,
    "absent": 0,
    "attended": 21,
@@ -19925,6 +20028,25 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "present",
+      "role": "Committee Member",
+      "committee": "Climate Change Steering Group",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217",
+      "business": [
+       "2024 Rother District-wide Emissions",
+       "Organisational Greenhouse Gas Emissions 2025/26",
+       "East Sussex Housing Retrofit Strategy",
+       "Climate Action Plan Progress - Buildings & Energy Efficiency - November 2026"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-18",
     "items": [
@@ -21048,7 +21170,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1979",
   "also": [],
   "ref_raw": "1979",
-  "summary": "Teresa Killeen (MBE) is a Liberal Democrat councillor for Hurst Green & Ticehurst on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 27 meetings and attended 25 (93%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 21 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
+  "summary": "Teresa Killeen (MBE) is a Liberal Democrat councillor for Hurst Green & Ticehurst on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 28 meetings and attended 26 (93%). The comparable figure is 86% for all Rother District Council councillors in this area and 84% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 21 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies."
  },
  "rdc-136": {
   "name": "Kathryn Field",
@@ -21093,7 +21215,7 @@
    "present": 16,
    "apologies": 2,
    "absent": 0,
-   "attended": 1,
+   "attended": 2,
    "substitute": 1,
    "declarations": 7,
    "votes": 0
@@ -21114,6 +21236,25 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "attended",
+      "role": "Guest",
+      "committee": "Climate Change Steering Group",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217",
+      "business": [
+       "2024 Rother District-wide Emissions",
+       "Organisational Greenhouse Gas Emissions 2025/26",
+       "East Sussex Housing Retrofit Strategy",
+       "Climate Action Plan Progress - Buildings & Energy Efficiency - November 2026"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-16",
     "items": [
@@ -21676,7 +21817,7 @@
    }
   ],
   "ref_raw": "136",
-  "summary": "Kathryn Field is a Liberal Democrat councillor for North Battle, Netherfield & Whatlington on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 18 meetings and attended 16 (89%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 7 meetings."
+  "summary": "Kathryn Field is a Liberal Democrat councillor for North Battle, Netherfield & Whatlington on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 18 meetings and attended 16 (89%). The comparable figure is 86% for all Rother District Council councillors in this area and 84% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 7 meetings."
  },
  "rdc-1741": {
   "name": "Sue Burton",
@@ -21689,7 +21830,7 @@
   "since": "2023-05-09",
   "email": "Cllr.Sue.Burton@rother.gov.uk",
   "url": "/representatives/rother-district/sue-burton/",
-  "attendance_text": "13 of 14 meetings (93%)",
+  "attendance_text": "14 of 15 meetings (93%)",
   "committees": [
    {
     "id": "250",
@@ -21717,8 +21858,8 @@
    }
   ],
   "tally": {
-   "expected": 14,
-   "present": 13,
+   "expected": 15,
+   "present": 14,
    "apologies": 1,
    "absent": 0,
    "attended": 4,
@@ -21742,6 +21883,25 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "present",
+      "role": "Committee Member",
+      "committee": "Climate Change Steering Group",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217",
+      "business": [
+       "2024 Rother District-wide Emissions",
+       "Organisational Greenhouse Gas Emissions 2025/26",
+       "East Sussex Housing Retrofit Strategy",
+       "Climate Action Plan Progress - Buildings & Energy Efficiency - November 2026"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-16",
     "items": [
@@ -22215,7 +22375,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1741",
   "also": [],
   "ref_raw": "1741",
-  "summary": "Sue Burton is a Green Party councillor for North Battle, Netherfield & Whatlington on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 14 meetings and attended 13 (93%). The comparable figure is 86% for all Rother District Council councillors in this area and 98% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 5 meetings."
+  "summary": "Sue Burton is a Green Party councillor for North Battle, Netherfield & Whatlington on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 15 meetings and attended 14 (93%). The comparable figure is 86% for all Rother District Council councillors in this area and 98% for its Green Party councillors here. They sent apologies for 1 meeting. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 4 committees and bodies. They declared an interest at 5 meetings."
  },
  "rdc-1991": {
   "name": "Tony Biggs",
@@ -23016,7 +23176,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1991",
   "also": [],
   "ref_raw": "1991",
-  "summary": "Tony Biggs is a Conservative councillor for Northern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 19 (90%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 2 meetings. They also attended 8 meetings as a substitute or as a visiting councillor. They sit on 7 committees and bodies."
+  "summary": "Tony Biggs is a Conservative councillor for Northern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 19 (90%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 2 meetings. They also attended 8 meetings as a substitute or as a visiting councillor. They sit on 7 committees and bodies."
  },
  "rdc-137": {
   "name": "Tony Ganly",
@@ -23405,7 +23565,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=137",
   "also": [],
   "ref_raw": "137",
-  "summary": "Tony Ganly is a Conservative councillor for Northern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 11 meetings and attended 10 (91%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 1 committee or body. They declared an interest at 1 meeting."
+  "summary": "Tony Ganly is a Conservative councillor for Northern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 11 meetings and attended 10 (91%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 1 committee or body. They declared an interest at 1 meeting."
  },
  "rdc-112": {
   "name": "Susan Prochak (MBE)",
@@ -23444,7 +23604,7 @@
    "present": 18,
    "apologies": 0,
    "absent": 0,
-   "attended": 6,
+   "attended": 7,
    "substitute": 0,
    "declarations": 6,
    "votes": 0
@@ -23465,6 +23625,25 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "attended",
+      "role": "Guest",
+      "committee": "Climate Change Steering Group",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217",
+      "business": [
+       "2024 Rother District-wide Emissions",
+       "Organisational Greenhouse Gas Emissions 2025/26",
+       "East Sussex Housing Retrofit Strategy",
+       "Climate Action Plan Progress - Buildings & Energy Efficiency - November 2026"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-18",
     "items": [
@@ -24101,7 +24280,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=112",
   "also": [],
   "ref_raw": "112",
-  "summary": "Susan Prochak (MBE) is a Liberal Democrat councillor for Robertsbridge on Rother District Council, a councillor since May 2023. Their posts: Liberal Democrats Group Leader. In the last 12 months they were expected at 18 meetings and attended 18 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They also attended 6 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 6 meetings."
+  "summary": "Susan Prochak (MBE) is a Liberal Democrat councillor for Robertsbridge on Rother District Council, a councillor since May 2023. Their posts: Liberal Democrats Group Leader. In the last 12 months they were expected at 18 meetings and attended 18 (100%). The comparable figure is 86% for all Rother District Council councillors in this area and 84% for its Liberal Democrats councillors here. They also attended 7 meetings as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 6 meetings."
  },
  "rdc-1982": {
   "name": "Cheryl Creaser",
@@ -24693,7 +24872,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1982",
   "also": [],
   "ref_raw": "1982",
-  "summary": "Cheryl Creaser is a Conservative councillor for Rye & Winchelsea on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 17 (81%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 3 meetings and were recorded absent without apologies at 1. They sit on 2 committees and bodies. They declared an interest at 4 meetings."
+  "summary": "Cheryl Creaser is a Conservative councillor for Rye & Winchelsea on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 21 meetings and attended 17 (81%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 3 meetings and were recorded absent without apologies at 1. They sit on 2 committees and bodies. They declared an interest at 4 meetings."
  },
  "rdc-2290": {
   "name": "Daniel Bradley",
@@ -25539,7 +25718,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1722",
   "also": [],
   "ref_raw": "1722",
-  "summary": "Beverley Coupar is a Liberal Democrat councillor for Sedlescombe & Westfield on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 8 (40%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 11 meetings and were recorded absent without apologies at 1. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 8 committees and bodies. They declared an interest at 4 meetings."
+  "summary": "Beverley Coupar is a Liberal Democrat councillor for Sedlescombe & Westfield on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 20 meetings and attended 8 (40%). The comparable figure is 86% for all Rother District Council councillors in this area and 84% for its Liberal Democrats councillors here. They sent apologies for 11 meetings and were recorded absent without apologies at 1. They also attended 3 meetings as a substitute or as a visiting councillor. They sit on 8 committees and bodies. They declared an interest at 4 meetings."
  },
  "rdc-139": {
   "name": "Carl Maynard",
@@ -25984,7 +26163,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=139",
   "also": [],
   "ref_raw": "139",
-  "summary": "Carl Maynard is a Conservative councillor for Sedlescombe & Westfield on Rother District Council, a councillor since May 2023. Their posts: Conservative Group Leader. In the last 12 months they were expected at 13 meetings and attended 11 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 4 meetings."
+  "summary": "Carl Maynard is a Conservative councillor for Sedlescombe & Westfield on Rother District Council, a councillor since May 2023. Their posts: Conservative Group Leader. In the last 12 months they were expected at 13 meetings and attended 11 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 2 meetings. They also attended 2 meetings as a substitute or as a visiting councillor. They sit on 2 committees and bodies. They declared an interest at 4 meetings."
  },
  "rdc-471": {
   "name": "Mrs Vikki Cook",
@@ -25997,7 +26176,7 @@
   "since": "2023-05-09",
   "email": "cllr.vikki.cook@rother.gov.uk",
   "url": "/representatives/rother-district/vikki-cook/",
-  "attendance_text": "15 of 18 meetings (83%)",
+  "attendance_text": "16 of 19 meetings (84%)",
   "committees": [
    {
     "id": "259",
@@ -26031,8 +26210,8 @@
    }
   ],
   "tally": {
-   "expected": 18,
-   "present": 15,
+   "expected": 19,
+   "present": 16,
    "apologies": 3,
    "absent": 0,
    "attended": 4,
@@ -26040,7 +26219,7 @@
    "declarations": 6,
    "votes": 0
   },
-  "rate": 83,
+  "rate": 84,
   "upcoming": [
    {
     "day": "2026-12-10",
@@ -26056,6 +26235,25 @@
    }
   ],
   "days": [
+   {
+    "day": "2026-11-26",
+    "items": [
+     {
+      "kind": "meeting",
+      "how": "present",
+      "role": "Committee Member",
+      "committee": "Climate Change Steering Group",
+      "url": "https://rother.moderngov.co.uk/ieListDocuments.aspx?CId=250&MId=1217",
+      "business": [
+       "2024 Rother District-wide Emissions",
+       "Organisational Greenhouse Gas Emissions 2025/26",
+       "East Sussex Housing Retrofit Strategy",
+       "Climate Action Plan Progress - Buildings & Energy Efficiency - November 2026"
+      ],
+      "decided": []
+     }
+    ]
+   },
    {
     "day": "2026-11-16",
     "items": [
@@ -26647,7 +26845,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=471",
   "also": [],
   "ref_raw": "471",
-  "summary": "Mrs Vikki Cook is a Liberal Democrat councillor for South Battle & Telham on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 18 meetings and attended 15 (83%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 3 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 6 meetings."
+  "summary": "Mrs Vikki Cook is a Liberal Democrat councillor for South Battle & Telham on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 19 meetings and attended 16 (84%). The comparable figure is 86% for all Rother District Council councillors in this area and 84% for its Liberal Democrats councillors here. They sent apologies for 3 meetings. They also attended 4 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 6 meetings."
  },
  "rdc-479": {
   "name": "Andrew Mier",
@@ -27379,7 +27577,7 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=479",
   "also": [],
   "ref_raw": "479",
-  "summary": "Andrew Mier is a Liberal Democrat councillor for Southern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 13 meetings and attended 11 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 83% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 13 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 2 meetings."
+  "summary": "Andrew Mier is a Liberal Democrat councillor for Southern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 13 meetings and attended 11 (85%). The comparable figure is 86% for all Rother District Council councillors in this area and 84% for its Liberal Democrats councillors here. They sent apologies for 2 meetings. They also attended 13 meetings as a substitute or as a visiting councillor. They sit on 5 committees and bodies. They declared an interest at 2 meetings."
  },
  "rdc-1987": {
   "name": "Tim Grohne",
@@ -27855,6 +28053,6 @@
   "declarations_page": "https://rother.moderngov.co.uk/mgListDeclarationsOfInterest.aspx?UID=1987",
   "also": [],
   "ref_raw": "1987",
-  "summary": "Tim Grohne is a Conservative councillor for Southern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 15 meetings and attended 13 (87%). The comparable figure is 86% for all Rother District Council councillors in this area and 86% for its Conservative councillors here. They sent apologies for 2 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
+  "summary": "Tim Grohne is a Conservative councillor for Southern Rother on Rother District Council, a councillor since May 2023. In the last 12 months they were expected at 15 meetings and attended 13 (87%). The comparable figure is 86% for all Rother District Council councillors in this area and 85% for its Conservative councillors here. They sent apologies for 2 meetings. They also attended 1 meeting as a substitute or as a visiting councillor. They sit on 3 committees and bodies. They declared an interest at 2 meetings."
  }
 }
