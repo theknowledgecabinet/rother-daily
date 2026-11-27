@@ -28,23 +28,29 @@ sources:
   name: East Sussex Healthcare NHS Trust (Conquest and Bexhill hospitals)
 image:
   card:
-    url: /assets/media/abstract/story-51/card.webp
+    url: /assets/media/story/51/card.webp
     w: 400
-    h: 267
+    h: 233
   medium:
-    url: /assets/media/abstract/story-51/medium.webp
+    url: /assets/media/story/51/medium.webp
     w: 800
-    h: 533
+    h: 467
   large:
-    url: /assets/media/abstract/story-51/large.webp
+    url: /assets/media/story/51/large.webp
     w: 1400
-    h: 933
+    h: 817
   share:
-    url: /assets/media/abstract/story-51/share.jpg
-  color: '#68471d'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/51/share.jpg
+  color: '#758186'
+  alt: Bexhill Hospital, Hollier's Hill, Bexhill, Rother District, East Sussex, England.
+  artist: User:Hassocks5489
+  match: exact
+  ai: false
+  by: null
+  licence: CC0
+  licence_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  page: https://commons.wikimedia.org/wiki/File:Bexhill_Hospital,_Hollier%27s_Hill,_Bexhill_(June_2011)_(1).jpg
+  default: false
 related:
 - url: /2026/11/27/east-sussex-council-to-re-house-old-hastings-house-residents/
   title: East Sussex council to re-house Old Hastings House residents

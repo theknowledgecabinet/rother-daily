@@ -28,23 +28,34 @@ sources:
   name: Rother District Council
 image:
   card:
-    url: /assets/media/abstract/story-53/card.webp
+    url: /assets/media/story/53/card.webp
     w: 400
     h: 267
   medium:
-    url: /assets/media/abstract/story-53/medium.webp
+    url: /assets/media/story/53/medium.webp
     w: 800
     h: 533
   large:
-    url: /assets/media/abstract/story-53/large.webp
-    w: 1400
-    h: 933
+    url: /assets/media/story/53/large.webp
+    w: 1344
+    h: 896
   share:
-    url: /assets/media/abstract/story-53/share.jpg
-  color: '#123e4b'
-  alt: ''
-  abstract: true
-  default: true
+    url: /assets/media/story/53/share.jpg
+  color: '#938879'
+  alt: Modern community hub interior overlooking a shingle beach
+  artist: AI-generated illustration
+  match: ai
+  ai: true
+  by:
+    name: Tess Iden
+    slug: tess-iden
+    title: Picture editor and illustrator
+    url: /reporters/tess-iden/
+    photo: /assets/reporters/tess-iden.jpg
+  licence: ''
+  licence_url: null
+  page: ''
+  default: false
 checked: '2026-11-27T19:09:28+00:00'
 related:
 - url: /2026/11/26/bexhill-councillors-debate-high-street-rental-auction-plans/
