@@ -55,6 +55,10 @@ image:
   page: ''
   default: false
 checked: '2026-11-26T19:12:55+00:00'
+related:
+- url: /2026/11/27/rye-literary-institute-hosts-first-festive-market/
+  title: Rye Literary Institute hosts first festive market
+  day: '2026-11-27'
 ---
 {% raw %}
 Rye Film Club is set to return to the Rye Community Centre on Friday 4 December.

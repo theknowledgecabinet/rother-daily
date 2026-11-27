@@ -56,6 +56,13 @@ image:
   page: ''
   default: false
 checked: '2026-11-23T19:10:09+00:00'
+related:
+- url: /2026/11/27/bexhill-shops-stay-open-late-for-christmas-event/
+  title: Bexhill shops stay open late for Christmas event
+  day: '2026-11-27'
+- url: /2026/11/27/bexhill-community-hub-opening-date-revealed/
+  title: Bexhill community hub opening date revealed
+  day: '2026-11-27'
 ---
 {% raw %}
 A zebra crossing in Bexhill town centre has been relocated further south, the county council said. The move allows motorists to complete a full turn from Endwell Road before stopping at the crossing, improving safety for pedestrians.

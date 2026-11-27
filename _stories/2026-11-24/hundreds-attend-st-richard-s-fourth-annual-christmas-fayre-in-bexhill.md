@@ -54,6 +54,13 @@ image:
   page: ''
   default: false
 checked: '2026-11-24T07:32:54+00:00'
+related:
+- url: /2026/11/27/bexhill-shops-stay-open-late-for-christmas-event/
+  title: Bexhill shops stay open late for Christmas event
+  day: '2026-11-27'
+- url: /2026/11/27/rye-literary-institute-hosts-first-festive-market/
+  title: Rye Literary Institute hosts first festive market
+  day: '2026-11-27'
 ---
 {% raw %}
 St Richard's Catholic College in Bexhill hosted its annual Christmas Fayre on Saturday, 21 November, with hundreds of people attending the event.
