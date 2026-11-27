@@ -121,7 +121,7 @@
    "present": 5,
    "apologies": 0,
    "absent": 0,
-   "other": 3,
+   "other": 4,
    "declarations": 1,
    "votes": 2,
    "rate": 100,
@@ -146,7 +146,7 @@
    "present": 3,
    "apologies": 0,
    "absent": 0,
-   "other": 0,
+   "other": 1,
    "declarations": 1,
    "votes": 2,
    "rate": 100,
@@ -1270,7 +1270,7 @@
      "present": 33,
      "apologies": 3,
      "absent": 0,
-     "other": 12,
+     "other": 14,
      "declarations": 3,
      "rate": 92
     },
@@ -1313,7 +1313,7 @@
    "present": 96,
    "apologies": 8,
    "absent": 1,
-   "other": 61,
+   "other": 63,
    "declarations": 7,
    "rate": 91
   }
