@@ -31,13 +31,13 @@
    "high": 12,
    "low": 6,
    "rain_chance": 100,
-   "rain_mm": 10.0,
-   "wind": 17,
-   "gusts": 33,
+   "rain_mm": 13.4,
+   "wind": 18,
+   "gusts": 34,
    "direction": "southerly",
    "sunrise": "07:34",
    "sunset": "15:57",
-   "summary": "Rain likely. A high of 12°C and a low of 6°C, a moderate breeze from the south, gusting 33 mph. Sunrise 07:34, sunset 15:57.",
+   "summary": "Rain likely. A high of 12°C and a low of 6°C, a fresh breeze from the south, gusting 34 mph. Sunrise 07:34, sunset 15:57.",
    "label": "Tomorrow",
    "weekday": "Sat 28 Nov",
    "long": "Saturday 28 November"
@@ -104,11 +104,11 @@
   "summary": "Rain likely. A high of 12°C and a low of 6°C, a fresh breeze from the south, gusting 34 mph. Sunrise 07:34, sunset 15:57."
  },
  "briefing": {
-  "day": "2026-11-26",
-  "url": "/assets/podcast/2026-11-26.mp3",
-  "seconds": 962,
-  "bytes": 3846764,
-  "length": "16 min"
+  "day": "2026-11-27",
+  "url": "/assets/podcast/2026-11-27.mp3",
+  "seconds": 507,
+  "bytes": 2028524,
+  "length": "8 min"
  },
  "video": {
   "id": "uUs-0NGMt5w",
