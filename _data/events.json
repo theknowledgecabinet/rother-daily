@@ -154,6 +154,28 @@
   "when": "Sat 28 Nov"
  },
  {
+  "starts": "2026-11-28",
+  "ends": "2026-11-29",
+  "title": "Christmas Market",
+  "time": "10am -4pm",
+  "venue": "Rye Creative Centre, Rye",
+  "places": "Rye",
+  "url": "https://ryesussex.uk/events/festivals-and-carnivals/rye-christmas-festival/christmas-market-7/",
+  "summary": "Stalls of handmade Christmas gifts, from pottery to relish, scarves to candles, with a friendly family atmosphere. Barista-made coffee, mince pies and pastries are available from the Ground Up coffee shop.",
+  "when": "Sat 28 Nov"
+ },
+ {
+  "starts": "2026-11-28",
+  "ends": null,
+  "title": "Udimore Christmas Fair",
+  "time": "10:00am – 1:00pm",
+  "venue": "St Mary's Hall, Udimore",
+  "places": "Rother villages",
+  "url": "https://tourist.org.uk/east-sussex/udimore/events/festivals-and-carnivals/rye-christmas-festival/udimore-christmas-fair/",
+  "summary": "The annual Christmas Fair offers mulled wine, mince pies, and the chance to meet Father Christmas. It features wreaths, gifts, homemade produce, and children's fun, with all proceeds going to St Mary’s Church.",
+  "when": "Sat 28 Nov"
+ },
+ {
   "starts": "2026-11-29",
   "ends": null,
   "title": "Charles Barnett comic singer songwriter",
@@ -174,5 +196,38 @@
   "url": "https://ryesussex.uk/events/festivals-and-carnivals/rye-christmas-festival/henry-v-by-william-shakespeare-4/",
   "summary": "This theatre production follows King Henry through pivotal years of 1400s England, including the Battle of Agincourt. The performance takes place inside the Tudor Rooms with allocated seating.",
   "when": "Sun 29 Nov"
+ },
+ {
+  "starts": "2026-11-29",
+  "ends": null,
+  "title": "HASTINGS SINFONIA PRESENTS: CHRISTMAS SPECTACULAR",
+  "time": "3pm",
+  "venue": "The De La Warr Pavilion, Bexhill",
+  "places": "Bexhill",
+  "url": "https://www.dlwp.com/event/christmas-spectacular-2/",
+  "summary": "A joyous musical celebration for all the family featuring traditional Christmas favourites, song and dance, conducted by Derek Carden.",
+  "when": "Sun 29 Nov"
+ },
+ {
+  "starts": "2026-12-02",
+  "ends": null,
+  "title": "Christmas Lights Switch On",
+  "time": "5:30pm",
+  "venue": "Collington Park Lodge, Bexhill",
+  "places": "Bexhill",
+  "url": "https://allevents.in/bexhill/christmas-lights-switch-on/200031025507906",
+  "summary": "Join Collington Park Lodge for the Christmas lights switch-on, featuring hot chocolate, mulled wine, mince pies and carols from The 9th Bexhill Cubs & Beavers.",
+  "when": "Wed 2 Dec"
+ },
+ {
+  "starts": "2026-12-03",
+  "ends": null,
+  "title": "Pet a puppy",
+  "time": "4:00PM to 6:00PM",
+  "venue": "The Chapel, Battle",
+  "places": "Battle",
+  "url": "https://allevents.in/bexhill/pet-a-puppy/200031143729431",
+  "summary": "Join The Chapel for a relaxed session to cuddle puppies and support Hollyview Animal Sanctuary. Drinks and food are available from the bar.",
+  "when": "Thu 3 Dec"
  }
 ]
