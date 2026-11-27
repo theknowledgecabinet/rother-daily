@@ -56,15 +56,15 @@ image:
   default: false
 checked: '2026-11-26T19:12:13+00:00'
 related:
+- url: /2026/11/27/cil-funds-1-3m-for-bexhill-hub-and-village-projects/
+  title: CIL funds £1.3m for Bexhill hub and village projects
+  day: '2026-11-27'
 - url: /2026/11/27/bexhill-shops-stay-open-late-for-christmas-event/
   title: Bexhill shops stay open late for Christmas event
   day: '2026-11-27'
 - url: /2026/11/24/council-extends-loan-for-blackfriars-housing-scheme-to-2029/
   title: Council extends loan for Blackfriars housing scheme to 2029
   day: '2026-11-24'
-- url: /2026/11/27/bexhill-public-toilets-to-become-cafe-with-accessible-wc-retained/
-  title: Bexhill public toilets to become cafe with accessible WC retained
-  day: '2026-11-27'
 ---
 {% raw %}
 Bexhill Town Council has discussed Rother District Council’s proposal to use High Street Rental Auction powers in the town centre. The scheme aims to bring persistently vacant commercial properties back into use.

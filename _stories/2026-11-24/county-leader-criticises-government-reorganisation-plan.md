@@ -55,6 +55,9 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/27/east-sussex-council-to-re-house-old-hastings-house-residents/
+  title: East Sussex council to re-house Old Hastings House residents
+  day: '2026-11-27'
 - url: /2026/11/23/political-accountability-east-sussex-county-council-week-from-sunday/
   title: 'Political accountability: East Sussex County Council, week from Sunday 15 November to Saturday 21 November 2026'
   day: '2026-11-23'

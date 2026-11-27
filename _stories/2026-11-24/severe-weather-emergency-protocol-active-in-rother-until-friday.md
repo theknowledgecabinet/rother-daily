@@ -59,6 +59,9 @@ image:
   default: false
 checked: '2026-11-24T19:08:37+00:00'
 related:
+- url: /2026/11/27/rother-council-seeks-views-on-extending-dog-control-rules/
+  title: Rother council seeks views on extending dog control rules
+  day: '2026-11-27'
 - url: /2026/11/23/rother-council-reports-14-concluded-conduct-complaints/
   title: Rother council reports 14 concluded conduct complaints
   day: '2026-11-23'

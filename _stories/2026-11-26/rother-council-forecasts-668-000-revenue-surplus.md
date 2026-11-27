@@ -62,12 +62,12 @@ related:
 - url: /2026/11/23/rother-council-reports-14-concluded-conduct-complaints/
   title: Rother council reports 14 concluded conduct complaints
   day: '2026-11-23'
-- url: /2026/11/26/bexhill-councillors-debate-high-street-rental-auction-plans/
-  title: Bexhill councillors debate High Street Rental Auction plans
-  day: '2026-11-26'
-- url: /2026/11/24/council-extends-loan-for-blackfriars-housing-scheme-to-2029/
-  title: Council extends loan for Blackfriars housing scheme to 2029
-  day: '2026-11-24'
+- url: /2026/11/27/rother-council-seeks-views-on-extending-dog-control-rules/
+  title: Rother council seeks views on extending dog control rules
+  day: '2026-11-27'
+- url: /2026/11/27/cil-funds-1-3m-for-bexhill-hub-and-village-projects/
+  title: CIL funds £1.3m for Bexhill hub and village projects
+  day: '2026-11-27'
 ---
 {% raw %}
 Rother District Council’s Overview and Scrutiny Committee met on 16 November to review the council’s financial position and performance for the second quarter of 2026/27. A report to the committee, prepared by the Director of Resources, forecasts a revenue surplus of £668,000 at the end of the year. This surplus is driven by favourable financing costs.

@@ -54,6 +54,9 @@ related:
 - url: /2026/11/26/bexhill-councillors-debate-high-street-rental-auction-plans/
   title: Bexhill councillors debate High Street Rental Auction plans
   day: '2026-11-26'
+- url: /2026/11/27/cil-funds-1-3m-for-bexhill-hub-and-village-projects/
+  title: CIL funds £1.3m for Bexhill hub and village projects
+  day: '2026-11-27'
 - url: /2026/11/27/bexhill-community-hub-opening-date-revealed/
   title: Bexhill community hub opening date revealed
   day: '2026-11-27'

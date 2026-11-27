@@ -71,6 +71,9 @@ image:
   default: false
 checked: '2026-11-23T10:46:56+00:00'
 related:
+- url: /2026/11/27/east-sussex-council-to-re-house-old-hastings-house-residents/
+  title: East Sussex council to re-house Old Hastings House residents
+  day: '2026-11-27'
 - url: /2026/11/24/county-leader-criticises-government-reorganisation-plan/
   title: County leader criticises government reorganisation plan
   day: '2026-11-24'

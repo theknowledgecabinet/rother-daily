@@ -55,15 +55,15 @@ image:
   page: ''
   default: false
 related:
+- url: /2026/11/27/rother-council-seeks-views-on-extending-dog-control-rules/
+  title: Rother council seeks views on extending dog control rules
+  day: '2026-11-27'
 - url: /2026/11/26/bexhill-councillors-debate-high-street-rental-auction-plans/
   title: Bexhill councillors debate High Street Rental Auction plans
   day: '2026-11-26'
-- url: /2026/11/23/rother-council-reports-14-concluded-conduct-complaints/
-  title: Rother council reports 14 concluded conduct complaints
-  day: '2026-11-23'
-- url: /2026/11/26/rother-council-forecasts-668-000-revenue-surplus/
-  title: Rother council forecasts £668,000 revenue surplus
-  day: '2026-11-26'
+- url: /2026/11/27/cil-funds-1-3m-for-bexhill-hub-and-village-projects/
+  title: CIL funds £1.3m for Bexhill hub and village projects
+  day: '2026-11-27'
 ---
 {% raw %}
 Rother District Council has agreed to extend the Development Facility Agreement for its housing company until 31 July 2029. The decision was made by the Shareholder Executive Committee on 18 November at the Town Hall in Bexhill-on-Sea.

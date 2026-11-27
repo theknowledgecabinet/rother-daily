@@ -56,15 +56,15 @@ image:
   default: false
 checked: '2026-11-27T07:35:00+00:00'
 related:
+- url: /2026/11/27/cil-funds-1-3m-for-bexhill-hub-and-village-projects/
+  title: CIL funds £1.3m for Bexhill hub and village projects
+  day: '2026-11-27'
 - url: /2026/11/26/bexhill-councillors-debate-high-street-rental-auction-plans/
   title: Bexhill councillors debate High Street Rental Auction plans
   day: '2026-11-26'
 - url: /2026/11/23/bexhill-zebra-crossing-relocated-to-improve-safety/
   title: Bexhill zebra crossing relocated to improve safety
   day: '2026-11-23'
-- url: /2026/11/27/bexhill-public-toilets-to-become-cafe-with-accessible-wc-retained/
-  title: Bexhill public toilets to become cafe with accessible WC retained
-  day: '2026-11-27'
 ---
 {% raw %}
 A date has been announced for when a new community hub in Bexhill town centre is expected to open. Work has started on the building, located at 34 Devonshire Road, where scaffolding has appeared outside the premises. More than £519,000 has been allocated to support the creation of the hub at the former Edinburgh Woollen Mill building.

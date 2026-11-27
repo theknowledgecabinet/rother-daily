@@ -60,11 +60,11 @@ related:
 - url: /2026/11/26/rother-council-forecasts-668-000-revenue-surplus/
   title: Rother council forecasts £668,000 revenue surplus
   day: '2026-11-26'
+- url: /2026/11/27/rother-council-seeks-views-on-extending-dog-control-rules/
+  title: Rother council seeks views on extending dog control rules
+  day: '2026-11-27'
 - url: /2026/11/24/council-extends-loan-for-blackfriars-housing-scheme-to-2029/
   title: Council extends loan for Blackfriars housing scheme to 2029
-  day: '2026-11-24'
-- url: /2026/11/24/severe-weather-emergency-protocol-active-in-rother-until-friday/
-  title: Severe Weather Emergency Protocol active in Rother until Friday
   day: '2026-11-24'
 ---
 {% raw %}
