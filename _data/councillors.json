@@ -2881,7 +2881,7 @@
   "since": "2021-05-06",
   "email": "cllr.paul.redstone@eastsussex.gov.uk",
   "url": "/representatives/east-sussex-county/paul-redstone/",
-  "attendance_text": "25 of 26 meetings (96%)",
+  "attendance_text": "24 of 25 meetings (96%)",
   "committees": [
    {
     "id": "285",
@@ -2921,8 +2921,8 @@
    }
   ],
   "tally": {
-   "expected": 26,
-   "present": 25,
+   "expected": 25,
+   "present": 24,
    "apologies": 1,
    "absent": 0,
    "attended": 20,
@@ -3945,27 +3945,6 @@
       "decided": []
      }
     ]
-   },
-   {
-    "day": "2025-11-27",
-    "items": [
-     {
-      "kind": "meeting",
-      "how": "present",
-      "role": "Committee Member",
-      "committee": "Place Scrutiny Committee",
-      "url": "https://democracy.eastsussex.gov.uk/ieListDocuments.aspx?CId=516&MId=6385&Ver=4",
-      "business": [
-       "Reconciling Policy, Performance and Resources (RPPR)",
-       "Scrutiny Review of Procurement: Social Value and Buying Local",
-       "East Sussex On-Street Electric Vehicle Charging Network",
-       "Call-in: Decision made by the Lead Member for Transport and Environment regarding the proposed relocation of Hastings Register Office",
-       "Notice of Motion: 20mph speed limits in new developments",
-       "Any other items previously notified under agenda item 4"
-      ],
-      "decided": []
-     }
-    ]
    }
   ],
   "council_page": "https://democracy.eastsussex.gov.uk/mgUserInfo.aspx?UID=2304",
@@ -3974,7 +3953,7 @@
   "declarations_page": "https://democracy.eastsussex.gov.uk/mgListDeclarationsOfInterest.aspx?UID=2304",
   "also": [],
   "ref_raw": "2304",
-  "summary": "Paul Redstone is a Conservative councillor for Northern Rother on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Conservative Group. In the last 12 months they were expected at 26 meetings and attended 25 (96%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 94% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 20 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings. They took part in 4 named votes, voting the same way as most of their party group in 4."
+  "summary": "Paul Redstone is a Conservative councillor for Northern Rother on East Sussex County Council, a councillor since May 2021. Their posts: Leader of the Conservative Group. In the last 12 months they were expected at 25 meetings and attended 24 (96%). The comparable figure is 91% for all East Sussex County Council councillors in this area and 94% for its Conservative councillors here. They sent apologies for 1 meeting. They also attended 20 meetings as a substitute or as a visiting councillor. They sit on 6 committees and bodies. They declared an interest at 2 meetings. They took part in 4 named votes, voting the same way as most of their party group in 4."
  },
  "escc-5312": {
   "name": "Mark Ashdown",

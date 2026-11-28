@@ -11,7 +11,7 @@
    "contact": "https://members.parliament.uk/member/4860/contact",
    "parliament": "https://members.parliament.uk/member/4860",
    "portrait": "https://members-api.parliament.uk/api/Members/4860/Portrait?cropType=OneOne&webVersion=true",
-   "last30_text": "25 votes, 8 votes missed, 34 contributions, 6 written questions, 8 answers received"
+   "last30_text": "25 votes, 8 votes missed, 29 contributions, 3 written questions, 6 answers received"
   },
   {
    "slug": "hastings-and-rye",
@@ -51,7 +51,7 @@
     "contact": "https://members.parliament.uk/member/4860/contact",
     "parliament": "https://members.parliament.uk/member/4860",
     "portrait": "https://members-api.parliament.uk/api/Members/4860/Portrait?cropType=OneOne&webVersion=true",
-    "last30_text": "25 votes, 8 votes missed, 34 contributions, 6 written questions, 8 answers received"
+    "last30_text": "25 votes, 8 votes missed, 29 contributions, 3 written questions, 6 answers received"
    },
    "sections": [
     {
@@ -698,7 +698,7 @@
          "since": "2021-05-06",
          "email": "cllr.paul.redstone@eastsussex.gov.uk",
          "url": "/representatives/east-sussex-county/paul-redstone/",
-         "attendance_text": "25 of 26 meetings (96%)"
+         "attendance_text": "24 of 25 meetings (96%)"
         }
        ]
       },
@@ -1026,7 +1026,7 @@
          "since": "2021-05-06",
          "email": "cllr.paul.redstone@eastsussex.gov.uk",
          "url": "/representatives/east-sussex-county/paul-redstone/",
-         "attendance_text": "25 of 26 meetings (96%)"
+         "attendance_text": "24 of 25 meetings (96%)"
         }
        ]
       },
