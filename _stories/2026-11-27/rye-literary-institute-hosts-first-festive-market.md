@@ -59,6 +59,9 @@ related:
 - url: /2026/11/26/rye-film-club-returns-to-community-centre-on-4-december/
   title: Rye Film Club returns to Community Centre on 4 December
   day: '2026-11-26'
+- url: /2026/11/28/rye-christmas-lights-switched-on-by-volunteer-committee/
+  title: Rye Christmas lights switched on by volunteer committee
+  day: '2026-11-28'
 - url: /2026/11/24/hundreds-attend-st-richard-s-fourth-annual-christmas-fayre-in-bexhill/
   title: Hundreds attend St Richard's fourth annual Christmas Fayre in Bexhill
   day: '2026-11-24'

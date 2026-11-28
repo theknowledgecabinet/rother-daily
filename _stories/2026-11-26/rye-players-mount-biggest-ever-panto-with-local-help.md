@@ -55,6 +55,10 @@ image:
   page: ''
   default: false
 checked: '2026-11-26T19:10:54+00:00'
+related:
+- url: /2026/11/28/rye-christmas-lights-switched-on-by-volunteer-committee/
+  title: Rye Christmas lights switched on by volunteer committee
+  day: '2026-11-28'
 ---
 {% raw %}
 Rye Players are preparing to stage their largest town pantomime yet, Cinderella, in December. The production is being built on the goodwill of local residents and professionals who have donated their time and skills.

@@ -50,6 +50,13 @@ image:
   page: https://commons.wikimedia.org/wiki/File:St_Mary_the_Virgin,_Rye_-_20220620130334.jpg
   default: false
 checked: '2026-11-26T19:13:15+00:00'
+related:
+- url: /2026/11/28/rye-christmas-lights-switched-on-by-volunteer-committee/
+  title: Rye Christmas lights switched on by volunteer committee
+  day: '2026-11-28'
+- url: /2026/11/28/rye-heritage-centre-unveils-smugglers-christmas-show/
+  title: Rye Heritage Centre unveils Smugglers' Christmas show
+  day: '2026-11-28'
 ---
 {% raw %}
 The famous clock at St Mary the Virgin in Rye is in need of urgent restoration, according to a report by Andrew Bamji and Roy Abel in Rye News. While the internal mechanism was restored in 2012 by the Cumbria Clock Company, the exterior fittings have suffered significant damage from weather, ageing, and pigeons over the past four decades.

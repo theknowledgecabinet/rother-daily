@@ -3,14 +3,14 @@
   "name": "Bexhill",
   "slug": "bexhill",
   "url": "/place/bexhill/",
-  "count": 27,
+  "count": 28,
   "own": true
  },
  {
   "name": "Rye",
   "slug": "rye",
   "url": "/place/rye/",
-  "count": 20,
+  "count": 22,
   "own": true
  },
  {
@@ -24,7 +24,7 @@
   "name": "Rother villages",
   "slug": "rother-villages",
   "url": "/place/rother-villages/",
-  "count": 11,
+  "count": 12,
   "own": true
  },
  {

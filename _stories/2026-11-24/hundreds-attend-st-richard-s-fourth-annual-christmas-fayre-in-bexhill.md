@@ -61,6 +61,9 @@ related:
 - url: /2026/11/27/rye-literary-institute-hosts-first-festive-market/
   title: Rye Literary Institute hosts first festive market
   day: '2026-11-27'
+- url: /2026/11/28/rye-christmas-lights-switched-on-by-volunteer-committee/
+  title: Rye Christmas lights switched on by volunteer committee
+  day: '2026-11-28'
 ---
 {% raw %}
 St Richard's Catholic College in Bexhill hosted its annual Christmas Fayre on Saturday, 21 November, with hundreds of people attending the event.

@@ -66,6 +66,10 @@ image:
   page: ''
   default: false
 checked: '2026-11-23T10:41:59+00:00'
+related:
+- url: /2026/11/28/mp-launches-survey-over-royal-mail-delays-in-bexhill-and-pevensey/
+  title: MP launches survey over Royal Mail delays in Bexhill and Pevensey
+  day: '2026-11-28'
 series: accountability
 series_label: Political accountability
 series_record: /accountability/week/2026-11-21/bexhill-and-battle-mp/

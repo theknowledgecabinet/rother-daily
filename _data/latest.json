@@ -1,8 +1,8 @@
 {
- "day": "2026-11-27",
- "label": "Friday 27 November 2026",
- "issue": 5,
- "edition_label": "Evening edition",
+ "day": "2026-11-28",
+ "label": "Saturday 28 November 2026",
+ "issue": 6,
+ "edition_label": "Morning edition",
  "forecast": [
   {
    "day": "2026-11-28",
@@ -12,8 +12,8 @@
    "high": 11,
    "low": 6,
    "rain_chance": 100,
-   "rain_mm": 8.3,
-   "wind": 17,
+   "rain_mm": 7.7,
+   "wind": 16,
    "gusts": 32,
    "direction": "southerly",
    "sunrise": "07:34",
@@ -50,58 +50,38 @@
    "name": "morning",
    "label": "Morning edition",
    "weather": {
-    "day": "2026-11-27",
-    "code": 3,
-    "words": "cloudy",
-    "icon": "☁️",
-    "high": 6,
-    "low": 3,
-    "rain_chance": 6,
-    "rain_mm": 0.0,
-    "wind": 12,
-    "gusts": 23,
-    "direction": "south-easterly",
-    "sunrise": "07:32",
-    "sunset": "15:58",
-    "summary": "Cloudy. A high of 6°C and a low of 3°C, a moderate breeze from the south-east. Sunrise 07:32, sunset 15:58."
-   }
-  },
-  {
-   "name": "evening",
-   "label": "Evening edition",
-   "weather": {
     "day": "2026-11-28",
-    "code": 63,
-    "words": "rain",
-    "icon": "🌧️",
-    "high": 12,
+    "code": 61,
+    "words": "light rain",
+    "icon": "🌦️",
+    "high": 11,
     "low": 6,
     "rain_chance": 100,
-    "rain_mm": 13.4,
-    "wind": 18,
-    "gusts": 34,
+    "rain_mm": 7.7,
+    "wind": 16,
+    "gusts": 32,
     "direction": "southerly",
     "sunrise": "07:34",
     "sunset": "15:57",
-    "summary": "Rain likely. A high of 12°C and a low of 6°C, a fresh breeze from the south, gusting 34 mph. Sunrise 07:34, sunset 15:57."
+    "summary": "Light rain likely. A high of 11°C and a low of 6°C, a moderate breeze from the south, gusting 32 mph. Sunrise 07:34, sunset 15:57."
    }
   }
  ],
  "weather": {
   "day": "2026-11-28",
-  "code": 63,
-  "words": "rain",
-  "icon": "🌧️",
-  "high": 12,
+  "code": 61,
+  "words": "light rain",
+  "icon": "🌦️",
+  "high": 11,
   "low": 6,
   "rain_chance": 100,
-  "rain_mm": 13.4,
-  "wind": 18,
-  "gusts": 34,
+  "rain_mm": 7.7,
+  "wind": 16,
+  "gusts": 32,
   "direction": "southerly",
   "sunrise": "07:34",
   "sunset": "15:57",
-  "summary": "Rain likely. A high of 12°C and a low of 6°C, a fresh breeze from the south, gusting 34 mph. Sunrise 07:34, sunset 15:57."
+  "summary": "Light rain likely. A high of 11°C and a low of 6°C, a moderate breeze from the south, gusting 32 mph. Sunrise 07:34, sunset 15:57."
  },
  "briefing": {
   "day": "2026-11-27",
@@ -123,6 +103,11 @@
   "title": "Charles Tippet collapses at Rye Golf Club"
  },
  "days": [
+  {
+   "day": "2026-11-28",
+   "url": "/2026/11/28/",
+   "label": "Sat 28 Nov"
+  },
   {
    "day": "2026-11-27",
    "url": "/2026/11/27/",
