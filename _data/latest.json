@@ -22,6 +22,25 @@
    "label": "Today",
    "weekday": "Sat 28 Nov",
    "long": "Saturday 28 November"
+  },
+  {
+   "day": "2026-11-29",
+   "code": 3,
+   "words": "cloudy",
+   "icon": "☁️",
+   "high": 12,
+   "low": 6,
+   "rain_chance": 65,
+   "rain_mm": 0.0,
+   "wind": 14,
+   "gusts": 27,
+   "direction": "south-westerly",
+   "sunrise": "07:35",
+   "sunset": "15:56",
+   "summary": "Cloudy, with a 65% chance of rain. A high of 12°C and a low of 6°C, a moderate breeze from the south-west. Sunrise 07:35, sunset 15:56.",
+   "label": "Tomorrow",
+   "weekday": "Sun 29 Nov",
+   "long": "Sunday 29 November"
   }
  ],
  "today_label": "Saturday 28 November 2026",
